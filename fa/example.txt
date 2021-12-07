@@ -1,0 +1,6 @@
+# MFA
+mfa align input dictionary acoustic output
+mfa align ../data/textgrid/ ~/Documents/MFA/pretrained_models/dictionary/fr.dict ~/Documents/MFA/pretrained_models/acoustic/french_prosodylab.zip /data/aligned
+
+# SPPAS
+python ./sppas/bin/annotation.py -I ~/Documents/ner/data/textgrid -l fra -e .TextGrid --textnorm --phonetize --alignment

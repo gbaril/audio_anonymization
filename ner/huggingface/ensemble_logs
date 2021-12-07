@@ -1,0 +1,24 @@
+{'confidence': 0.9, 
+
+'score': {'total': {'fscore': 0.9495512517713746, 'precision': 0.9339342129715666, 'recall': 0.9656994619523444, 'count': 11030}, 
+'Currency': {'fscore': 0.9140674729471675, 'precision': 0.8777506112469438, 'recall': 0.953519256308101, 'count': 828}, 
+'Location': {'fscore': 0.9550851832731028, 'precision': 0.9419551934826884, 'recall': 0.9685863874345549, 'count': 2005}, 
+'MoneyAmount': {'fscore': 0.9097303634232122, 'precision': 0.8596750369276218, 'recall': 0.9659751037344398, 'count': 1376}, 
+'Organization': {'fscore': 0.9542305269787948, 'precision': 0.9466777754634451, 'recall': 0.9619047619047619, 'count': 4960}, 
+'Person': {'fscore': 0.9747252747252748, 'precision': 0.972054794520548, 'recall': 0.9774104683195592, 'count': 1861}, 
+
+'tscore': {'total': {'fscore': 0.9579593764761454, 'precision': 0.9422040512915815, 'recall': 0.9742505764796311, 'count': 11030}, 
+
+
+
+
+
+
+{'score': {'total': {'fscore': 0.9498391065682377, 'precision': 0.9358448340171578, 'recall': 0.9642582628747117, 'count': 11007}, 
+'Currency': {'fscore': 0.9145408163265306, 'precision': 0.8797546012269939, 'recall': 0.952191235059761, 'count': 826}, 
+'Location': {'fscore': 0.9548153885876581, 'precision': 0.9419256240448294, 'recall': 0.9680628272251309, 'count': 2005}, 
+'MoneyAmount': {'fscore': 0.9122257053291536, 'precision': 0.8641425389755011, 'recall': 0.9659751037344398, 'count': 1369}, 
+'Organization': {'fscore': 0.9542153457530785, 'precision': 0.9491206030150754, 'recall': 0.9593650793650793, 'count': 4947}, 
+'Person': {'fscore': 0.9747113798790544, 'precision': 0.9725726823916621, 'recall': 0.9768595041322314, 'count': 1860}, 
+
+'tscore': {'total': {'fscore': 0.9582623509369677, 'precision': 0.9441439761283104, 'recall': 0.9728093774019985, 'count': 11007},
