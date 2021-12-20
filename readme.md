@@ -22,7 +22,7 @@ cd pipeline
 docker build --tag pipeline .
 ```
 
-Secondly, download the trained NER models from [TODO](google.ca).
+Secondly, download the trained NER models on [Zenodo](https://zenodo.org/record/5789853#.YcD7VdtyaV4).
 
 Thirdly, allow the docker image to use your GPU.
 
@@ -88,3 +88,11 @@ item []:
 ```
 
 Note that to work directly with our pipeline, the interval name containing the transcription must be named **spkr_1_1-trans**.
+
+## Datasets
+
+I used two datasets for this project.
+
+The first one is [FrenNER](http://bit.ly/CorpusFR) to train the NER models.
+
+The second one is [NCCFR](https://mirjamernestus.nl/Ernestus/NCCFr/index.php) to evaluate the FA algorithms and pipeline.
