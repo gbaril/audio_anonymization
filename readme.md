@@ -97,3 +97,7 @@ I used two datasets for this project.
 The first one is [FrenNER](http://bit.ly/CorpusFR) to train the NER models.
 
 The second one is based on [NCCFR](https://mirjamernestus.nl/Ernestus/NCCFr/index.php) to evaluate the FA algorithms and pipeline. For more details on how to generate the dataset, check [annotations folder](annotations/).
+
+## Important Note
+
+Part of matching between the predictions with the gold standard annotations was done by hand to ensure a good evaluation of the pipeline.
