@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.921979
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.921979
+        intervals: size = 24
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.569489
+            text = ""
+        intervals [2]:
+            xmin = 0.569489
+            xmax = 0.719311
+            text = "avec"
+        intervals [3]:
+            xmin = 0.719311
+            xmax = 0.860489
+            text = "une"
+        intervals [4]:
+            xmin = 0.860489
+            xmax = 1.119796
+            text = "euh"
+        intervals [5]:
+            xmin = 1.119796
+            xmax = 1.174539
+            text = "on"
+        intervals [6]:
+            xmin = 1.174539
+            xmax = 1.333004
+            text = "était"
+        intervals [7]:
+            xmin = 1.333004
+            xmax = 1.448252
+            text = "allé"
+        intervals [8]:
+            xmin = 1.448252
+            xmax = 2.182955
+            text = "à"
+        intervals [9]:
+            xmin = 2.182955
+            xmax = 2.361588
+            text = "faire"
+        intervals [10]:
+            xmin = 2.361588
+            xmax = 2.448024
+            text = "une"
+        intervals [11]:
+            xmin = 2.448024
+            xmax = 2.609371
+            text = "visite"
+        intervals [12]:
+            xmin = 2.609371
+            xmax = 2.661232
+            text = "à"
+        intervals [13]:
+            xmin = 2.661232
+            xmax = 2.790886
+            text = "la"
+        intervals [14]:
+            xmin = 2.790886
+            xmax = 2.978163
+            text = "con"
+        intervals [15]:
+            xmin = 2.978163
+            xmax = 3.225945
+            text = "euh"
+        intervals [16]:
+            xmin = 3.225945
+            xmax = 3.297975
+            text = "on"
+        intervals [17]:
+            xmin = 3.297975
+            xmax = 3.398816
+            text = "va"
+        intervals [18]:
+            xmin = 3.398816
+            xmax = 3.629312
+            text = "manger"
+        intervals [19]:
+            xmin = 3.629312
+            xmax = 3.776252
+            text = "où"
+        intervals [20]:
+            xmin = 3.776252
+            xmax = 3.830995
+            text = "on"
+        intervals [21]:
+            xmin = 3.830995
+            xmax = 3.894381
+            text = "va"
+        intervals [22]:
+            xmin = 3.894381
+            xmax = 3.960648
+            text = "au"
+        intervals [23]:
+            xmin = 3.960648
+            xmax = 4.378421
+            text = "Macdo"
+        intervals [24]:
+            xmin = 4.378421
+            xmax = 4.921979
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.921979
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.960648
+            text = ""
+        intervals [2]:
+            xmin = 3.960648
+            xmax = 4.378421
+            text = "ORG"
+        intervals [3]:
+            xmin = 4.378421
+            xmax = 4.921979
+            text = ""

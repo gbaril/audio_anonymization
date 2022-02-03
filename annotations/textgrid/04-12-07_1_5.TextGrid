@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 3.329000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 3.329000
+        intervals: size = 13
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.681379
+            text = ""
+        intervals [2]:
+            xmin = 0.681379
+            xmax = 0.868455
+            text = "ah"
+        intervals [3]:
+            xmin = 0.868455
+            xmax = 1.149068
+            text = "puis"
+        intervals [4]:
+            xmin = 1.149068
+            xmax = 1.495937
+            text = "Bordeaux"
+        intervals [5]:
+            xmin = 1.495937
+            xmax = 1.794089
+            text = "aussi"
+        intervals [6]:
+            xmin = 1.794089
+            xmax = 2.039625
+            text = "Bordeaux"
+        intervals [7]:
+            xmin = 2.039625
+            xmax = 2.146804
+            text = "ça"
+        intervals [8]:
+            xmin = 2.146804
+            xmax = 2.216957
+            text = "doit"
+        intervals [9]:
+            xmin = 2.216957
+            xmax = 2.271521
+            text = "être"
+        intervals [10]:
+            xmin = 2.271521
+            xmax = 2.353367
+            text = ""
+        intervals [11]:
+            xmin = 2.353367
+            xmax = 2.483930
+            text = "pas"
+        intervals [12]:
+            xmin = 2.483930
+            xmax = 2.756748
+            text = "mal"
+        intervals [13]:
+            xmin = 2.756748
+            xmax = 3.329000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 3.329000
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.149068
+            text = ""
+        intervals [2]:
+            xmin = 1.149068
+            xmax = 1.495937
+            text = "GPE"
+        intervals [3]:
+            xmin = 1.495937
+            xmax = 1.794089
+            text = ""
+        intervals [4]:
+            xmin = 1.794089
+            xmax = 2.039625
+            text = "GPE"
+        intervals [5]:
+            xmin = 2.039625
+            xmax = 3.329000
+            text = ""

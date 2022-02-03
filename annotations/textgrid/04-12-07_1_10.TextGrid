@@ -1,0 +1,152 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 5.335000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 5.335000
+        intervals: size = 26
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.674007
+            text = ""
+        intervals [2]:
+            xmin = 0.674007
+            xmax = 0.866644
+            text = "ben"
+        intervals [3]:
+            xmin = 0.866644
+            xmax = 0.983393
+            text = "non"
+        intervals [4]:
+            xmin = 0.983393
+            xmax = 1.111817
+            text = "elle"
+        intervals [5]:
+            xmin = 1.111817
+            xmax = 1.135167
+            text = "est"
+        intervals [6]:
+            xmin = 1.135167
+            xmax = 1.292778
+            text = "née"
+        intervals [7]:
+            xmin = 1.292778
+            xmax = 1.345315
+            text = "à"
+        intervals [8]:
+            xmin = 1.345315
+            xmax = 1.549626
+            text = "Paris"
+        intervals [9]:
+            xmin = 1.549626
+            xmax = 1.695563
+            text = "je"
+        intervals [10]:
+            xmin = 1.695563
+            xmax = 1.806475
+            text = "crois"
+        intervals [11]:
+            xmin = 1.806475
+            xmax = 1.975761
+            text = "mais"
+        intervals [12]:
+            xmin = 1.975761
+            xmax = 2.150885
+            text = "sa"
+        intervals [13]:
+            xmin = 2.150885
+            xmax = 2.419408
+            text = "mère"
+        intervals [14]:
+            xmin = 2.419408
+            xmax = 2.600369
+            text = "est"
+        intervals [15]:
+            xmin = 2.600369
+            xmax = 3.096553
+            text = "d'origine"
+        intervals [16]:
+            xmin = 3.096553
+            xmax = 3.376751
+            text = "breton"
+        intervals [17]:
+            xmin = 3.376751
+            xmax = 3.686137
+            text = "enfin"
+        intervals [18]:
+            xmin = 3.686137
+            xmax = 3.855423
+            text = "sa"
+        intervals [19]:
+            xmin = 3.855423
+            xmax = 3.960497
+            text = "sa"
+        intervals [20]:
+            xmin = 3.960497
+            xmax = 4.158971
+            text = "mère"
+        intervals [21]:
+            xmin = 4.158971
+            xmax = 4.217346
+            text = "vit"
+        intervals [22]:
+            xmin = 4.217346
+            xmax = 4.269883
+            text = "en"
+        intervals [23]:
+            xmin = 4.269883
+            xmax = 4.561756
+            text = "Bretagne"
+        intervals [24]:
+            xmin = 4.561756
+            xmax = 4.649318
+            text = "et"
+        intervals [25]:
+            xmin = 4.649318
+            xmax = 4.748554
+            text = "a"
+        intervals [26]:
+            xmin = 4.748554
+            xmax = 5.335000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 5.335000
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.345315
+            text = ""
+        intervals [2]:
+            xmin = 1.345315
+            xmax = 1.549626
+            text = "GPE"
+        intervals [3]:
+            xmin = 1.549626
+            xmax = 3.096553
+            text = ""
+        intervals [4]:
+            xmin = 3.096553
+            xmax = 3.376751
+            text = "NORP"
+        intervals [5]:
+            xmin = 3.376751
+            xmax = 4.269883
+            text = ""
+        intervals [6]:
+            xmin = 4.269883
+            xmax = 4.561756
+            text = "GPE"
+        intervals [7]:
+            xmin = 4.561756
+            xmax = 5.335000
+            text = ""

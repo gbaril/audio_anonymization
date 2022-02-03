@@ -1,0 +1,132 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 3.999000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 3.999000
+        intervals: size = 23
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.472061
+            text = ""
+        intervals [2]:
+            xmin = 0.472061
+            xmax = 0.589106
+            text = "parce"
+        intervals [3]:
+            xmin = 0.589106
+            xmax = 0.635924
+            text = "qu'"
+        intervals [4]:
+            xmin = 0.635924
+            xmax = 0.923855
+            text = "après"
+        intervals [5]:
+            xmin = 0.923855
+            xmax = 1.090059
+            text = "enfin"
+        intervals [6]:
+            xmin = 1.090059
+            xmax = 1.209445
+            text = "moi"
+        intervals [7]:
+            xmin = 1.209445
+            xmax = 1.274991
+            text = "moi"
+        intervals [8]:
+            xmin = 1.274991
+            xmax = 1.347559
+            text = "les"
+        intervals [9]:
+            xmin = 1.347559
+            xmax = 1.506740
+            text = "autres"
+        intervals [10]:
+            xmin = 1.506740
+            xmax = 1.839148
+            text = "questions"
+        intervals [11]:
+            xmin = 1.839148
+            xmax = 1.958534
+            text = "Al"
+        intervals [12]:
+            xmin = 1.958534
+            xmax = 2.115375
+            text = "Gore"
+        intervals [13]:
+            xmin = 2.115375
+            xmax = 2.244124
+            text = "son"
+        intervals [14]:
+            xmin = 2.244124
+            xmax = 2.375215
+            text = "prix"
+        intervals [15]:
+            xmin = 2.375215
+            xmax = 2.585896
+            text = "Nobel"
+        intervals [16]:
+            xmin = 2.585896
+            xmax = 2.677191
+            text = "de"
+        intervals [17]:
+            xmin = 2.677191
+            xmax = 2.791896
+            text = "la"
+        intervals [18]:
+            xmin = 2.791896
+            xmax = 2.934691
+            text = "paix"
+        intervals [19]:
+            xmin = 2.934691
+            xmax = 2.993213
+            text = "je"
+        intervals [20]:
+            xmin = 2.993213
+            xmax = 3.047054
+            text = "m'"
+        intervals [21]:
+            xmin = 3.047054
+            xmax = 3.112599
+            text = "en"
+        intervals [22]:
+            xmin = 3.112599
+            xmax = 3.430962
+            text = "fous"
+        intervals [23]:
+            xmin = 3.430962
+            xmax = 3.999000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 3.999000
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.839148
+            text = ""
+        intervals [2]:
+            xmin = 1.839148
+            xmax = 2.115375
+            text = "PERSON"
+        intervals [3]:
+            xmin = 2.115375
+            xmax = 2.375215
+            text = ""
+        intervals [4]:
+            xmin = 2.375215
+            xmax = 2.585896
+            text = "PERSON"
+        intervals [5]:
+            xmin = 2.585896
+            xmax = 3.999000
+            text = ""

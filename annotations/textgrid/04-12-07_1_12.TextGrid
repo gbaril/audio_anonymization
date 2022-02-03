@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 3.672000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 3.672000
+        intervals: size = 13
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.966139
+            text = ""
+        intervals [2]:
+            xmin = 0.966139
+            xmax = 1.134888
+            text = "c'est"
+        intervals [3]:
+            xmin = 1.134888
+            xmax = 1.319708
+            text = "Star"
+        intervals [4]:
+            xmin = 1.319708
+            xmax = 1.524618
+            text = "Trek"
+        intervals [5]:
+            xmin = 1.524618
+            xmax = 1.729527
+            text = ""
+        intervals [6]:
+            xmin = 1.729527
+            xmax = 1.797831
+            text = "en"
+        intervals [7]:
+            xmin = 1.797831
+            xmax = 1.910330
+            text = "fait"
+        intervals [8]:
+            xmin = 1.910330
+            xmax = 2.079079
+            text = "c'est"
+        intervals [9]:
+            xmin = 2.079079
+            xmax = 2.243810
+            text = "le"
+        intervals [10]:
+            xmin = 2.243810
+            xmax = 2.480863
+            text = "nouveau"
+        intervals [11]:
+            xmin = 2.480863
+            xmax = 2.766129
+            text = "vaisseau"
+        intervals [12]:
+            xmin = 2.766129
+            xmax = 3.095591
+            text = "de"
+        intervals [13]:
+            xmin = 3.095591
+            xmax = 3.672000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 3.672000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.134888
+            text = ""
+        intervals [2]:
+            xmin = 1.134888
+            xmax = 1.524618
+            text = "ART"
+        intervals [3]:
+            xmin = 1.524618
+            xmax = 3.672000
+            text = ""

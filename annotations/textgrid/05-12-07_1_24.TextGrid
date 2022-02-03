@@ -1,0 +1,140 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 6.577000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 6.577000
+        intervals: size = 29
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.514581
+            text = ""
+        intervals [2]:
+            xmin = 0.514581
+            xmax = 0.645481
+            text = "ben"
+        intervals [3]:
+            xmin = 0.645481
+            xmax = 0.903430
+            text = "si"
+        intervals [4]:
+            xmin = 0.903430
+            xmax = 0.988130
+            text = "ils"
+        intervals [5]:
+            xmin = 0.988130
+            xmax = 1.280729
+            text = "prenaient"
+        intervals [6]:
+            xmin = 1.280729
+            xmax = 1.442429
+            text = "plus"
+        intervals [7]:
+            xmin = 1.442429
+            xmax = 1.573329
+            text = "en"
+        intervals [8]:
+            xmin = 1.573329
+            xmax = 1.808178
+            text = "amont"
+        intervals [9]:
+            xmin = 1.808178
+            xmax = 1.900578
+            text = "le"
+        intervals [10]:
+            xmin = 1.900578
+            xmax = 1.927528
+            text = ""
+        intervals [11]:
+            xmin = 1.927528
+            xmax = 2.274027
+            text = "problème"
+        intervals [12]:
+            xmin = 2.274027
+            xmax = 2.366427
+            text = "ils"
+        intervals [13]:
+            xmin = 2.366427
+            xmax = 2.582026
+            text = "savent"
+        intervals [14]:
+            xmin = 2.582026
+            xmax = 2.705226
+            text = "très"
+        intervals [15]:
+            xmin = 2.705226
+            xmax = 2.893876
+            text = "bien"
+        intervals [16]:
+            xmin = 2.893876
+            xmax = 2.974726
+            text = "que"
+        intervals [17]:
+            xmin = 2.974726
+            xmax = 3.482925
+            text = "depuis"
+        intervals [18]:
+            xmin = 3.482925
+            xmax = 3.991124
+            text = "euh"
+        intervals [19]:
+            xmin = 3.991124
+            xmax = 4.245223
+            text = "X"
+        intervals [20]:
+            xmin = 4.245223
+            xmax = 4.572472
+            text = "années"
+        intervals [21]:
+            xmin = 4.572472
+            xmax = 4.607122
+            text = "il"
+        intervals [22]:
+            xmin = 4.607122
+            xmax = 4.634072
+            text = "y"
+        intervals [23]:
+            xmin = 4.634072
+            xmax = 4.672572
+            text = "a"
+        intervals [24]:
+            xmin = 4.672572
+            xmax = 4.780372
+            text = "des"
+        intervals [25]:
+            xmin = 4.780372
+            xmax = 5.196171
+            text = "problèmes"
+        intervals [26]:
+            xmin = 5.196171
+            xmax = 5.380971
+            text = "avec"
+        intervals [27]:
+            xmin = 5.380971
+            xmax = 5.504170
+            text = "les"
+        intervals [28]:
+            xmin = 5.504170
+            xmax = 5.981569
+            text = "supporters"
+        intervals [29]:
+            xmin = 5.981569
+            xmax = 6.577000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 6.577000
+        intervals: size = 1
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 6.577000
+            text = ""

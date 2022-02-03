@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.803000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.803000
+        intervals: size = 26
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.782607
+            text = ""
+        intervals [2]:
+            xmin = 0.782607
+            xmax = 1.112891
+            text = "franchement"
+        intervals [3]:
+            xmin = 1.112891
+            xmax = 1.122900
+            text = ""
+        intervals [4]:
+            xmin = 1.122900
+            xmax = 1.243003
+            text = "on"
+        intervals [5]:
+            xmin = 1.243003
+            xmax = 1.408145
+            text = "arrive"
+        intervals [6]:
+            xmin = 1.408145
+            xmax = 1.503227
+            text = "en"
+        intervals [7]:
+            xmin = 1.503227
+            xmax = 1.678378
+            text = "fac"
+        intervals [8]:
+            xmin = 1.678378
+            xmax = 1.828507
+            text = ""
+        intervals [9]:
+            xmin = 1.828507
+            xmax = 1.913580
+            text = "on"
+        intervals [10]:
+            xmin = 1.913580
+            xmax = 1.923589
+            text = ""
+        intervals [11]:
+            xmin = 1.923589
+            xmax = 2.028679
+            text = "est"
+        intervals [12]:
+            xmin = 2.028679
+            xmax = 2.038688
+            text = ""
+        intervals [13]:
+            xmin = 2.038688
+            xmax = 2.163795
+            text = "donc"
+        intervals [14]:
+            xmin = 2.163795
+            xmax = 2.559136
+            text = "c'est"
+        intervals [15]:
+            xmin = 2.559136
+            xmax = 2.729282
+            text = "c'est"
+        intervals [16]:
+            xmin = 2.729282
+            xmax = 2.889420
+            text = "une"
+        intervals [17]:
+            xmin = 2.889420
+            xmax = 2.999515
+            text = "petite"
+        intervals [18]:
+            xmin = 2.999515
+            xmax = 3.244726
+            text = "antenne"
+        intervals [19]:
+            xmin = 3.244726
+            xmax = 3.314786
+            text = "de"
+        intervals [20]:
+            xmin = 3.314786
+            xmax = 3.374838
+            text = "la"
+        intervals [21]:
+            xmin = 3.374838
+            xmax = 3.499945
+            text = "fac"
+        intervals [22]:
+            xmin = 3.499945
+            xmax = 3.600031
+            text = "de"
+        intervals [23]:
+            xmin = 3.600031
+            xmax = 3.805208
+            text = "Brest"
+        intervals [24]:
+            xmin = 3.805208
+            xmax = 3.885277
+            text = "à"
+        intervals [25]:
+            xmin = 3.885277
+            xmax = 4.210557
+            text = "Quimper"
+        intervals [26]:
+            xmin = 4.210557
+            xmax = 4.803000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.803000
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.600031
+            text = ""
+        intervals [2]:
+            xmin = 3.600031
+            xmax = 3.805208
+            text = "GPE"
+        intervals [3]:
+            xmin = 3.805208
+            xmax = 3.885277
+            text = ""
+        intervals [4]:
+            xmin = 3.885277
+            xmax = 4.210557
+            text = "GPE"
+        intervals [5]:
+            xmin = 4.210557
+            xmax = 4.803000
+            text = ""

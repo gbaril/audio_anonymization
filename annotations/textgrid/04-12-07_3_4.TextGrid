@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.108000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.108000
+        intervals: size = 23
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.617187
+            text = ""
+        intervals [2]:
+            xmin = 0.617187
+            xmax = 0.797540
+            text = "ben"
+        intervals [3]:
+            xmin = 0.797540
+            xmax = 0.917775
+            text = "puis"
+        intervals [4]:
+            xmin = 0.917775
+            xmax = 1.208745
+            text = "d'autant"
+        intervals [5]:
+            xmin = 1.208745
+            xmax = 1.244816
+            text = "qu'"
+        intervals [6]:
+            xmin = 1.244816
+            xmax = 1.333790
+            text = "en"
+        intervals [7]:
+            xmin = 1.333790
+            xmax = 1.480477
+            text = "plus"
+        intervals [8]:
+            xmin = 1.480477
+            xmax = 1.680068
+            text = "même"
+        intervals [9]:
+            xmin = 1.680068
+            xmax = 1.826755
+            text = "quand"
+        intervals [10]:
+            xmin = 1.826755
+            xmax = 1.877254
+            text = "tu"
+        intervals [11]:
+            xmin = 1.877254
+            xmax = 1.997489
+            text = "étais"
+        intervals [12]:
+            xmin = 1.997489
+            xmax = 2.091273
+            text = "dans"
+        intervals [13]:
+            xmin = 2.091273
+            xmax = 2.141772
+            text = "le"
+        intervals [14]:
+            xmin = 2.141772
+            xmax = 2.437551
+            text = "CPE"
+        intervals [15]:
+            xmin = 2.437551
+            xmax = 2.536144
+            text = "il"
+        intervals [16]:
+            xmin = 2.536144
+            xmax = 2.560191
+            text = "t'"
+        intervals [17]:
+            xmin = 2.560191
+            xmax = 2.603476
+            text = "est"
+        intervals [18]:
+            xmin = 2.603476
+            xmax = 2.800662
+            text = "arrivé"
+        intervals [19]:
+            xmin = 2.800662
+            xmax = 2.894446
+            text = "la"
+        intervals [20]:
+            xmin = 2.894446
+            xmax = 3.050752
+            text = "même"
+        intervals [21]:
+            xmin = 3.050752
+            xmax = 3.334507
+            text = "chose"
+        intervals [22]:
+            xmin = 3.334507
+            xmax = 3.493218
+            text = "quoi"
+        intervals [23]:
+            xmin = 3.493218
+            xmax = 4.108000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.108000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.141772
+            text = ""
+        intervals [2]:
+            xmin = 2.141772
+            xmax = 2.437551
+            text = "ORG"
+        intervals [3]:
+            xmin = 2.437551
+            xmax = 4.108000
+            text = ""

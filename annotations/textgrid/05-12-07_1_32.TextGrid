@@ -1,0 +1,140 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 5.515000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 5.515000
+        intervals: size = 27
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.570309
+            text = ""
+        intervals [2]:
+            xmin = 0.570309
+            xmax = 0.712355
+            text = "parce"
+        intervals [3]:
+            xmin = 0.712355
+            xmax = 0.754323
+            text = "qu'"
+        intervals [4]:
+            xmin = 0.754323
+            xmax = 0.796291
+            text = "à"
+        intervals [5]:
+            xmin = 0.796291
+            xmax = 1.015818
+            text = "cette"
+        intervals [6]:
+            xmin = 1.015818
+            xmax = 1.270856
+            text = "période"
+        intervals [7]:
+            xmin = 1.270856
+            xmax = 1.451642
+            text = "là"
+        intervals [8]:
+            xmin = 1.451642
+            xmax = 1.512980
+            text = "tu"
+        intervals [9]:
+            xmin = 1.512980
+            xmax = 1.690538
+            text = "avais"
+        intervals [10]:
+            xmin = 1.690538
+            xmax = 1.884238
+            text = "beaucoup"
+        intervals [11]:
+            xmin = 1.884238
+            xmax = 1.971402
+            text = "de"
+        intervals [12]:
+            xmin = 1.971402
+            xmax = 2.106992
+            text = "femmes"
+        intervals [13]:
+            xmin = 2.106992
+            xmax = 2.171559
+            text = "qui"
+        intervals [14]:
+            xmin = 2.171559
+            xmax = 2.332975
+            text = "étaient"
+        intervals [15]:
+            xmin = 2.332975
+            xmax = 2.475021
+            text = "élues"
+        intervals [16]:
+            xmin = 2.475021
+            xmax = 2.562186
+            text = "dans"
+        intervals [17]:
+            xmin = 2.562186
+            xmax = 2.610611
+            text = "le"
+        intervals [18]:
+            xmin = 2.610611
+            xmax = 2.755886
+            text = "monde"
+        intervals [19]:
+            xmin = 2.755886
+            xmax = 3.072262
+            text = "entier"
+        intervals [20]:
+            xmin = 3.072262
+            xmax = 3.127143
+            text = "au"
+        intervals [21]:
+            xmin = 3.127143
+            xmax = 3.811549
+            text = "Liberia"
+        intervals [22]:
+            xmin = 3.811549
+            xmax = 3.840604
+            text = ""
+        intervals [23]:
+            xmin = 3.840604
+            xmax = 3.901942
+            text = "tu"
+        intervals [24]:
+            xmin = 3.901942
+            xmax = 4.176350
+            text = "as"
+        intervals [25]:
+            xmin = 4.176350
+            xmax = 4.441072
+            text = "aussi"
+        intervals [26]:
+            xmin = 4.441072
+            xmax = 4.928550
+            text = "en"
+        intervals [27]:
+            xmin = 4.928550
+            xmax = 5.515000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 5.515000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.127143
+            text = ""
+        intervals [2]:
+            xmin = 3.127143
+            xmax = 3.811549
+            text = "GPE"
+        intervals [3]:
+            xmin = 3.811549
+            xmax = 5.515000
+            text = ""

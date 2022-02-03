@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.437000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 2.437000
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.521630
+            text = ""
+        intervals [2]:
+            xmin = 0.521630
+            xmax = 0.671417
+            text = "par"
+        intervals [3]:
+            xmin = 0.671417
+            xmax = 0.796954
+            text = "contre"
+        intervals [4]:
+            xmin = 0.796954
+            xmax = 0.886827
+            text = "tu"
+        intervals [5]:
+            xmin = 0.886827
+            xmax = 0.945315
+            text = "es"
+        intervals [6]:
+            xmin = 0.945315
+            xmax = 1.129341
+            text = "fan"
+        intervals [7]:
+            xmin = 1.129341
+            xmax = 1.207801
+            text = "de"
+        intervals [8]:
+            xmin = 1.207801
+            xmax = 1.543040
+            text = "Tagada"
+        intervals [9]:
+            xmin = 1.543040
+            xmax = 1.864015
+            text = "Jones"
+        intervals [10]:
+            xmin = 1.864015
+            xmax = 2.437000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 2.437000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.207801
+            text = ""
+        intervals [2]:
+            xmin = 1.207801
+            xmax = 1.864015
+            text = "PERSON"
+        intervals [3]:
+            xmin = 1.864015
+            xmax = 2.437000
+            text = ""

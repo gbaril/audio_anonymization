@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.228000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 2.228000
+        intervals: size = 12
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.555146
+            text = ""
+        intervals [2]:
+            xmin = 0.555146
+            xmax = 0.698609
+            text = "Paul"
+        intervals [3]:
+            xmin = 0.698609
+            xmax = 0.821205
+            text = "non"
+        intervals [4]:
+            xmin = 0.821205
+            xmax = 0.995969
+            text = ""
+        intervals [5]:
+            xmin = 0.995969
+            xmax = 1.324630
+            text = "non"
+        intervals [6]:
+            xmin = 1.324630
+            xmax = 1.363756
+            text = "n'"
+        intervals [7]:
+            xmin = 1.363756
+            xmax = 1.414620
+            text = "en"
+        intervals [8]:
+            xmin = 1.414620
+            xmax = 1.531999
+            text = "fait"
+        intervals [9]:
+            xmin = 1.531999
+            xmax = 1.567213
+            text = ""
+        intervals [10]:
+            xmin = 1.567213
+            xmax = 1.638944
+            text = "pas"
+        intervals [11]:
+            xmin = 1.638944
+            xmax = 1.715892
+            text = "la "
+        intervals [12]:
+            xmin = 1.715892
+            xmax = 2.228000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 2.228000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.555146
+            text = ""
+        intervals [2]:
+            xmin = 0.555146
+            xmax = 0.698609
+            text = "PERSON"
+        intervals [3]:
+            xmin = 0.698609
+            xmax = 2.228000
+            text = ""

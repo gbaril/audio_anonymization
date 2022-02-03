@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.728000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 2.728000
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.587111
+            text = ""
+        intervals [2]:
+            xmin = 0.587111
+            xmax = 0.663762
+            text = "ils"
+        intervals [3]:
+            xmin = 0.663762
+            xmax = 0.765963
+            text = "ont"
+        intervals [4]:
+            xmin = 0.765963
+            xmax = 1.064582
+            text = "suivi"
+        intervals [5]:
+            xmin = 1.064582
+            xmax = 1.155605
+            text = "des"
+        intervals [6]:
+            xmin = 1.155605
+            xmax = 1.550038
+            text = "supporters"
+        intervals [7]:
+            xmin = 1.550038
+            xmax = 1.674596
+            text = "de"
+        intervals [8]:
+            xmin = 1.674596
+            xmax = 2.110548
+            text = "Marseille"
+        intervals [9]:
+            xmin = 2.110548
+            xmax = 2.728000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 2.728000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.674596
+            text = ""
+        intervals [2]:
+            xmin = 1.674596
+            xmax = 2.110548
+            text = "GPE"
+        intervals [3]:
+            xmin = 2.110548
+            xmax = 2.728000
+            text = ""

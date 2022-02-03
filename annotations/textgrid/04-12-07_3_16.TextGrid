@@ -1,0 +1,236 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 10.524000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 10.524000
+        intervals: size = 51
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.524740
+            text = ""
+        intervals [2]:
+            xmin = 0.524740
+            xmax = 0.669050
+            text = "et"
+        intervals [3]:
+            xmin = 0.669050
+            xmax = 1.082880
+            text = "euh"
+        intervals [4]:
+            xmin = 1.082880
+            xmax = 1.180501
+            text = "de"
+        intervals [5]:
+            xmin = 1.180501
+            xmax = 1.462755
+            text = "plus"
+        intervals [6]:
+            xmin = 1.462755
+            xmax = 1.583720
+            text = ""
+        intervals [7]:
+            xmin = 1.583720
+            xmax = 1.734397
+            text = "plus"
+        intervals [8]:
+            xmin = 1.734397
+            xmax = 1.781086
+            text = "que"
+        intervals [9]:
+            xmin = 1.781086
+            xmax = 1.855363
+            text = "ce"
+        intervals [10]:
+            xmin = 1.855363
+            xmax = 1.995428
+            text = "soit"
+        intervals [11]:
+            xmin = 1.995428
+            xmax = 2.069705
+            text = "euh"
+        intervals [12]:
+            xmin = 2.069705
+            xmax = 2.534468
+            text = "uniquement"
+        intervals [13]:
+            xmin = 2.534468
+            xmax = 2.712734
+            text = "un"
+        intervals [14]:
+            xmin = 2.712734
+            xmax = 3.075631
+            text = "moyen"
+        intervals [15]:
+            xmin = 3.075631
+            xmax = 3.239041
+            text = "de"
+        intervals [16]:
+            xmin = 3.239041
+            xmax = 3.321807
+            text = "se"
+        intervals [17]:
+            xmin = 3.321807
+            xmax = 3.790814
+            text = "shooter"
+        intervals [18]:
+            xmin = 3.790814
+            xmax = 4.045479
+            text = "et"
+        intervals [19]:
+            xmin = 4.045479
+            xmax = 4.200464
+            text = ""
+        intervals [20]:
+            xmin = 4.200464
+            xmax = 4.243067
+            text = "de"
+        intervals [21]:
+            xmin = 4.243067
+            xmax = 4.487067
+            text = "planer"
+        intervals [22]:
+            xmin = 4.487067
+            xmax = 4.607131
+            text = "mais"
+        intervals [23]:
+            xmin = 4.607131
+            xmax = 4.680718
+            text = "que"
+        intervals [24]:
+            xmin = 4.680718
+            xmax = 4.748496
+            text = "ce"
+        intervals [25]:
+            xmin = 4.748496
+            xmax = 4.866623
+            text = "soit"
+        intervals [26]:
+            xmin = 4.866623
+            xmax = 5.104813
+            text = "aussi"
+        intervals [27]:
+            xmin = 5.104813
+            xmax = 5.546336
+            text = "justement"
+        intervals [28]:
+            xmin = 5.546336
+            xmax = 5.765162
+            text = "un"
+        intervals [29]:
+            xmin = 5.765162
+            xmax = 6.123416
+            text = ""
+        intervals [30]:
+            xmin = 6.123416
+            xmax = 6.247352
+            text = "un"
+        intervals [31]:
+            xmin = 6.247352
+            xmax = 6.392590
+            text = "acte"
+        intervals [32]:
+            xmin = 6.392590
+            xmax = 6.532019
+            text = "de"
+        intervals [33]:
+            xmin = 6.532019
+            xmax = 7.052939
+            text = "camaraderie"
+        intervals [34]:
+            xmin = 7.052939
+            xmax = 7.163320
+            text = "tu"
+        intervals [35]:
+            xmin = 7.163320
+            xmax = 7.172503
+            text = ""
+        intervals [36]:
+            xmin = 7.172503
+            xmax = 7.285131
+            text = "vois"
+        intervals [37]:
+            xmin = 7.285131
+            xmax = 7.692325
+            text = "de"
+        intervals [38]:
+            xmin = 7.692325
+            xmax = 8.057933
+            text = ""
+        intervals [39]:
+            xmin = 8.057933
+            xmax = 8.262396
+            text = "comme"
+        intervals [40]:
+            xmin = 8.262396
+            xmax = 8.362895
+            text = "de"
+        intervals [41]:
+            xmin = 8.362895
+            xmax = 8.556962
+            text = "faire"
+        intervals [42]:
+            xmin = 8.556962
+            xmax = 8.771822
+            text = "tourner"
+        intervals [43]:
+            xmin = 8.771822
+            xmax = 8.830735
+            text = "le"
+        intervals [44]:
+            xmin = 8.830735
+            xmax = 8.978018
+            text = "maté"
+        intervals [45]:
+            xmin = 8.978018
+            xmax = 9.038664
+            text = "en"
+        intervals [46]:
+            xmin = 9.038664
+            xmax = 9.459720
+            text = "Argentine"
+        intervals [47]:
+            xmin = 9.459720
+            xmax = 9.631261
+            text = "quoi"
+        intervals [48]:
+            xmin = 9.631261
+            xmax = 9.730027
+            text = ""
+        intervals [49]:
+            xmin = 9.730027
+            xmax = 9.818397
+            text = "tu"
+        intervals [50]:
+            xmin = 9.818397
+            xmax = 9.976076
+            text = "vois"
+        intervals [51]:
+            xmin = 9.976076
+            xmax = 10.524000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 10.524000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 9.038664
+            text = ""
+        intervals [2]:
+            xmin = 9.038664
+            xmax = 9.459720
+            text = "GPE"
+        intervals [3]:
+            xmin = 9.459720
+            xmax = 10.524000
+            text = ""

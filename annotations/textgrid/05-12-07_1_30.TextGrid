@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.815000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 2.815000
+        intervals: size = 15
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.544865
+            text = ""
+        intervals [2]:
+            xmin = 0.544865
+            xmax = 0.630552
+            text = "et"
+        intervals [3]:
+            xmin = 0.630552
+            xmax = 0.876077
+            text = "pourquoi"
+        intervals [4]:
+            xmin = 0.876077
+            xmax = 0.904090
+            text = "est"
+        intervals [5]:
+            xmin = 0.904090
+            xmax = 0.968355
+            text = "-ce"
+        intervals [6]:
+            xmin = 0.968355
+            xmax = 1.080407
+            text = "que"
+        intervals [7]:
+            xmin = 1.080407
+            xmax = 1.103477
+            text = ""
+        intervals [8]:
+            xmin = 1.103477
+            xmax = 1.138081
+            text = "tu"
+        intervals [9]:
+            xmin = 1.138081
+            xmax = 1.184220
+            text = "as"
+        intervals [10]:
+            xmin = 1.184220
+            xmax = 1.314398
+            text = "été"
+        intervals [11]:
+            xmin = 1.314398
+            xmax = 1.380311
+            text = "à"
+        intervals [12]:
+            xmin = 1.380311
+            xmax = 1.734593
+            text = "Boulogne"
+        intervals [13]:
+            xmin = 1.734593
+            xmax = 1.976823
+            text = "euh"
+        intervals [14]:
+            xmin = 1.976823
+            xmax = 2.256952
+            text = "Boris"
+        intervals [15]:
+            xmin = 2.256952
+            xmax = 2.815000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 2.815000
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.380311
+            text = ""
+        intervals [2]:
+            xmin = 1.380311
+            xmax = 1.734593
+            text = "GPE"
+        intervals [3]:
+            xmin = 1.734593
+            xmax = 1.976823
+            text = ""
+        intervals [4]:
+            xmin = 1.976823
+            xmax = 2.256952
+            text = "PERSON"
+        intervals [5]:
+            xmin = 2.256952
+            xmax = 2.815000
+            text = ""

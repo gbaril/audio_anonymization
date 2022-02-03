@@ -1,0 +1,164 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 6.144000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 6.144000
+        intervals: size = 33
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.559827
+            text = ""
+        intervals [2]:
+            xmin = 0.559827
+            xmax = 0.703688
+            text = "mais"
+        intervals [3]:
+            xmin = 0.703688
+            xmax = 0.876321
+            text = "euh"
+        intervals [4]:
+            xmin = 0.876321
+            xmax = 1.210798
+            text = "enfin"
+        intervals [5]:
+            xmin = 1.210798
+            xmax = 1.577644
+            text = "euh"
+        intervals [6]:
+            xmin = 1.577644
+            xmax = 1.739487
+            text = "c'"
+        intervals [7]:
+            xmin = 1.739487
+            xmax = 1.958875
+            text = "est"
+        intervals [8]:
+            xmin = 1.958875
+            xmax = 2.167474
+            text = "ouais"
+        intervals [9]:
+            xmin = 2.167474
+            xmax = 2.293352
+            text = "c'"
+        intervals [10]:
+            xmin = 2.293352
+            xmax = 2.394055
+            text = "est"
+        intervals [11]:
+            xmin = 2.394055
+            xmax = 2.537916
+            text = "ce"
+        intervals [12]:
+            xmin = 2.537916
+            xmax = 2.577478
+            text = ""
+        intervals [13]:
+            xmin = 2.577478
+            xmax = 2.638619
+            text = "que"
+        intervals [14]:
+            xmin = 2.638619
+            xmax = 2.724935
+            text = "me"
+        intervals [15]:
+            xmin = 2.724935
+            xmax = 2.904762
+            text = "disait"
+        intervals [16]:
+            xmin = 2.904762
+            xmax = 3.059412
+            text = ""
+        intervals [17]:
+            xmin = 3.059412
+            xmax = 3.404679
+            text = "Caroline"
+        intervals [18]:
+            xmin = 3.404679
+            xmax = 3.447837
+            text = "elle"
+        intervals [19]:
+            xmin = 3.447837
+            xmax = 3.494592
+            text = "me"
+        intervals [20]:
+            xmin = 3.494592
+            xmax = 3.728366
+            text = "disait"
+        intervals [21]:
+            xmin = 3.728366
+            xmax = 4.041264
+            text = "que"
+        intervals [22]:
+            xmin = 4.041264
+            xmax = 4.203107
+            text = "enfin"
+        intervals [23]:
+            xmin = 4.203107
+            xmax = 4.249862
+            text = "elle"
+        intervals [24]:
+            xmin = 4.249862
+            xmax = 4.415302
+            text = "arrive"
+        intervals [25]:
+            xmin = 4.415302
+            xmax = 4.516005
+            text = "pas"
+        intervals [26]:
+            xmin = 4.516005
+            xmax = 4.559163
+            text = "à"
+        intervals [27]:
+            xmin = 4.559163
+            xmax = 4.580743
+            text = "s'"
+        intervals [28]:
+            xmin = 4.580743
+            xmax = 4.609515
+            text = "y"
+        intervals [29]:
+            xmin = 4.609515
+            xmax = 5.012326
+            text = "retrouver"
+        intervals [30]:
+            xmin = 5.012326
+            xmax = 5.271276
+            text = ""
+        intervals [31]:
+            xmin = 5.271276
+            xmax = 5.386364
+            text = "en"
+        intervals [32]:
+            xmin = 5.386364
+            xmax = 5.551805
+            text = "fait"
+        intervals [33]:
+            xmin = 5.551805
+            xmax = 6.144000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 6.144000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.059412
+            text = ""
+        intervals [2]:
+            xmin = 3.059412
+            xmax = 3.404679
+            text = "PERSON"
+        intervals [3]:
+            xmin = 3.404679
+            xmax = 6.144000
+            text = ""

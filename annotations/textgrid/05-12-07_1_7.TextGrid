@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 3.958000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 3.958000
+        intervals: size = 22
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.580749
+            text = ""
+        intervals [2]:
+            xmin = 0.580749
+            xmax = 0.763785
+            text = "euh"
+        intervals [3]:
+            xmin = 0.763785
+            xmax = 0.782320
+            text = ""
+        intervals [4]:
+            xmin = 0.782320
+            xmax = 0.986207
+            text = "mais"
+        intervals [5]:
+            xmin = 0.986207
+            xmax = 1.164609
+            text = "moi"
+        intervals [6]:
+            xmin = 1.164609
+            xmax = 1.257285
+            text = "ce"
+        intervals [7]:
+            xmin = 1.257285
+            xmax = 1.280454
+            text = ""
+        intervals [8]:
+            xmin = 1.280454
+            xmax = 1.356912
+            text = "que"
+        intervals [9]:
+            xmin = 1.356912
+            xmax = 1.403250
+            text = ""
+        intervals [10]:
+            xmin = 1.403250
+            xmax = 1.556165
+            text = "ce"
+        intervals [11]:
+            xmin = 1.556165
+            xmax = 1.641891
+            text = "que"
+        intervals [12]:
+            xmin = 1.641891
+            xmax = 1.743834
+            text = "je"
+        intervals [13]:
+            xmin = 1.743834
+            xmax = 1.838827
+            text = "leur"
+        intervals [14]:
+            xmin = 1.838827
+            xmax = 2.186363
+            text = "reproche"
+        intervals [15]:
+            xmin = 2.186363
+            xmax = 2.285990
+            text = "par"
+        intervals [16]:
+            xmin = 2.285990
+            xmax = 2.519997
+            text = "exemple"
+        intervals [17]:
+            xmin = 2.519997
+            xmax = 2.709983
+            text = "à"
+        intervals [18]:
+            xmin = 2.709983
+            xmax = 2.858265
+            text = "la"
+        intervals [19]:
+            xmin = 2.858265
+            xmax = 2.955574
+            text = "à"
+        intervals [20]:
+            xmin = 2.955574
+            xmax = 3.050567
+            text = "la"
+        intervals [21]:
+            xmin = 3.050567
+            xmax = 3.342497
+            text = "FSEUL"
+        intervals [22]:
+            xmin = 3.342497
+            xmax = 3.958000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 3.958000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.050567
+            text = ""
+        intervals [2]:
+            xmin = 3.050567
+            xmax = 3.342497
+            text = "ORG"
+        intervals [3]:
+            xmin = 3.342497
+            xmax = 3.958000
+            text = ""

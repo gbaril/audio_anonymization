@@ -8,6 +8,7 @@ The code is separated as followed :
 - fa : Code used to evaluate two Forced Alignment (FA) algorithms
 - ner : Code used to train and evaluate three Named Entity Recognition (NER) models
 - pipeline : Code used to create the docker image to anonymize audio recordings
+- annotations : Manually annotated speech corpora gold annotations. See [Datasets section](#-Datasets) for more details.
 
 ## Pipeline
 
@@ -95,4 +96,4 @@ I used two datasets for this project.
 
 The first one is [FrenNER](http://bit.ly/CorpusFR) to train the NER models.
 
-The second one is [NCCFR](https://mirjamernestus.nl/Ernestus/NCCFr/index.php) to evaluate the FA algorithms and pipeline.
+The second one is based on [NCCFR](https://mirjamernestus.nl/Ernestus/NCCFr/index.php) to evaluate the FA algorithms and pipeline. For more details on how to generate the dataset, check [annotations folder](annotations/).

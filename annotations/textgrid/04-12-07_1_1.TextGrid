@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 5.126000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 5.126000
+        intervals: size = 29
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.500000
+            text = ""
+        intervals [2]:
+            xmin = 0.500000
+            xmax = 0.698082
+            text = " quand"
+        intervals [3]:
+            xmin = 0.698082
+            xmax = 0.765387
+            text = "on"
+        intervals [4]:
+            xmin = 0.765387
+            xmax = 0.843910
+            text = "m'a"
+        intervals [5]:
+            xmin = 0.843910
+            xmax = 0.899998
+            text = "dit"
+        intervals [6]:
+            xmin = 0.899998
+            xmax = 1.079479
+            text = "ah"
+        intervals [7]:
+            xmin = 1.079479
+            xmax = 1.365526
+            text = "mais"
+        intervals [8]:
+            xmin = 1.365526
+            xmax = 1.617921
+            text = "quand"
+        intervals [9]:
+            xmin = 1.617921
+            xmax = 1.702053
+            text = "on"
+        intervals [10]:
+            xmin = 1.702053
+            xmax = 1.819837
+            text = "m'a"
+        intervals [11]:
+            xmin = 1.819837
+            xmax = 1.903969
+            text = "dit"
+        intervals [12]:
+            xmin = 1.903969
+            xmax = 2.094667
+            text = "ah"
+        intervals [13]:
+            xmin = 2.094667
+            xmax = 2.279757
+            text = "mais"
+        intervals [14]:
+            xmin = 2.279757
+            xmax = 2.369497
+            text = "tu"
+        intervals [15]:
+            xmin = 2.369497
+            xmax = 2.442411
+            text = "es"
+        intervals [16]:
+            xmin = 2.442411
+            xmax = 2.560196
+            text = "pas"
+        intervals [17]:
+            xmin = 2.560196
+            xmax = 2.762112
+            text = "rien"
+        intervals [18]:
+            xmin = 2.762112
+            xmax = 3.132291
+            text = "Sorbonne"
+        intervals [19]:
+            xmin = 3.132291
+            xmax = 3.266901
+            text = "et"
+        intervals [20]:
+            xmin = 3.266901
+            xmax = 3.401512
+            text = "tout"
+        intervals [21]:
+            xmin = 3.401512
+            xmax = 3.552949
+            text = "c'est"
+        intervals [22]:
+            xmin = 3.552949
+            xmax = 3.833388
+            text = "vachement"
+        intervals [23]:
+            xmin = 3.833388
+            xmax = 3.973607
+            text = "bien"
+        intervals [24]:
+            xmin = 3.973607
+            xmax = 4.125044
+            text = "vu"
+        intervals [25]:
+            xmin = 4.125044
+            xmax = 4.214785
+            text = "je"
+        intervals [26]:
+            xmin = 4.214785
+            xmax = 4.377439
+            text = "fais"
+        intervals [27]:
+            xmin = 4.377439
+            xmax = 4.467179
+            text = "ah"
+        intervals [28]:
+            xmin = 4.467179
+            xmax = 4.626000
+            text = "bon"
+        intervals [29]:
+            xmin = 4.626000
+            xmax = 5.126000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 5.126000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.762112
+            text = ""
+        intervals [2]:
+            xmin = 2.762112
+            xmax = 3.132291
+            text = "ORG"
+        intervals [3]:
+            xmin = 3.132291
+            xmax = 5.126000
+            text = ""

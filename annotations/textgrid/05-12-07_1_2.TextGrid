@@ -1,0 +1,132 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 5.545000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 5.545000
+        intervals: size = 23
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.537706
+            text = ""
+        intervals [2]:
+            xmin = 0.537706
+            xmax = 0.992130
+            text = "Hollande"
+        intervals [3]:
+            xmin = 0.992130
+            xmax = 1.105737
+            text = "il"
+        intervals [4]:
+            xmin = 1.105737
+            xmax = 1.225834
+            text = "est"
+        intervals [5]:
+            xmin = 1.225834
+            xmax = 1.728947
+            text = ""
+        intervals [6]:
+            xmin = 1.728947
+            xmax = 2.290486
+            text = "d'accord"
+        intervals [7]:
+            xmin = 2.290486
+            xmax = 2.326190
+            text = ""
+        intervals [8]:
+            xmin = 2.326190
+            xmax = 2.452780
+            text = "pour"
+        intervals [9]:
+            xmin = 2.452780
+            xmax = 2.589107
+            text = "les"
+        intervals [10]:
+            xmin = 2.589107
+            xmax = 2.783861
+            text = "régimes"
+        intervals [11]:
+            xmin = 2.783861
+            xmax = 3.189597
+            text = "spéciaux"
+        intervals [12]:
+            xmin = 3.189597
+            xmax = 3.228547
+            text = ""
+        intervals [13]:
+            xmin = 3.228547
+            xmax = 3.368120
+            text = "pour"
+        intervals [14]:
+            xmin = 3.368120
+            xmax = 3.459005
+            text = "que"
+        intervals [15]:
+            xmin = 3.459005
+            xmax = 3.588841
+            text = "les"
+        intervals [16]:
+            xmin = 3.588841
+            xmax = 3.744643
+            text = "les"
+        intervals [17]:
+            xmin = 3.744643
+            xmax = 3.897200
+            text = "gens"
+        intervals [18]:
+            xmin = 3.897200
+            xmax = 4.072478
+            text = "soient"
+        intervals [19]:
+            xmin = 4.072478
+            xmax = 4.137396
+            text = "à"
+        intervals [20]:
+            xmin = 4.137396
+            xmax = 4.143888
+            text = ""
+        intervals [21]:
+            xmin = 4.143888
+            xmax = 4.449001
+            text = "quarante"
+        intervals [22]:
+            xmin = 4.449001
+            xmax = 4.919655
+            text = "annuités"
+        intervals [23]:
+            xmin = 4.919655
+            xmax = 5.545000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 5.545000
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.537706
+            text = ""
+        intervals [2]:
+            xmin = 0.537706
+            xmax = 0.992130
+            text = "PERSON"
+        intervals [3]:
+            xmin = 0.992130
+            xmax = 4.143888
+            text = ""
+        intervals [4]:
+            xmin = 4.143888
+            xmax = 4.449001
+            text = "NUMBER"
+        intervals [5]:
+            xmin = 4.449001
+            xmax = 5.545000
+            text = ""

@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.140000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.140000
+        intervals: size = 15
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.009745
+            text = ""
+        intervals [2]:
+            xmin = 1.009745
+            xmax = 1.130917
+            text = "ben"
+        intervals [3]:
+            xmin = 1.130917
+            xmax = 1.244819
+            text = "la"
+        intervals [4]:
+            xmin = 1.244819
+            xmax = 1.586524
+            text = "Lazio"
+        intervals [5]:
+            xmin = 1.586524
+            xmax = 1.714966
+            text = "c'"
+        intervals [6]:
+            xmin = 1.714966
+            xmax = 1.770705
+            text = "est"
+        intervals [7]:
+            xmin = 1.770705
+            xmax = 1.857949
+            text = "le"
+        intervals [8]:
+            xmin = 1.857949
+            xmax = 2.565594
+            text = "hum"
+        intervals [9]:
+            xmin = 2.565594
+            xmax = 2.594675
+            text = ""
+        intervals [10]:
+            xmin = 2.594675
+            xmax = 2.725541
+            text = "le"
+        intervals [11]:
+            xmin = 2.725541
+            xmax = 2.761892
+            text = ""
+        intervals [12]:
+            xmin = 2.761892
+            xmax = 2.950921
+            text = "club"
+        intervals [13]:
+            xmin = 2.950921
+            xmax = 3.052705
+            text = "de"
+        intervals [14]:
+            xmin = 3.052705
+            xmax = 3.566474
+            text = "Mussolini"
+        intervals [15]:
+            xmin = 3.566474
+            xmax = 4.140000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.140000
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.244819
+            text = ""
+        intervals [2]:
+            xmin = 1.244819
+            xmax = 1.586524
+            text = "ORG"
+        intervals [3]:
+            xmin = 1.586524
+            xmax = 3.052705
+            text = ""
+        intervals [4]:
+            xmin = 3.052705
+            xmax = 3.566474
+            text = "PERSON"
+        intervals [5]:
+            xmin = 3.566474
+            xmax = 4.140000
+            text = ""

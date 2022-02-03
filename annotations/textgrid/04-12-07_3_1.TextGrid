@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.546000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.546000
+        intervals: size = 15
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.611142
+            text = ""
+        intervals [2]:
+            xmin = 0.611142
+            xmax = 0.698959
+            text = "une"
+        intervals [3]:
+            xmin = 0.698959
+            xmax = 1.169974
+            text = "distinction"
+        intervals [4]:
+            xmin = 1.169974
+            xmax = 1.561155
+            text = "naturelle"
+        intervals [5]:
+            xmin = 1.561155
+            xmax = 1.742110
+            text = "alors"
+        intervals [6]:
+            xmin = 1.742110
+            xmax = 1.944354
+            text = "que"
+        intervals [7]:
+            xmin = 1.944354
+            xmax = 2.489880
+            text = "provinciaux"
+        intervals [8]:
+            xmin = 2.489880
+            xmax = 2.638901
+            text = "et"
+        intervals [9]:
+            xmin = 2.638901
+            xmax = 3.109916
+            text = ""
+        intervals [10]:
+            xmin = 3.109916
+            xmax = 3.541015
+            text = "Parisiens"
+        intervals [11]:
+            xmin = 3.541015
+            xmax = 3.602220
+            text = "pas"
+        intervals [12]:
+            xmin = 3.602220
+            xmax = 3.735275
+            text = "du"
+        intervals [13]:
+            xmin = 3.735275
+            xmax = 3.748581
+            text = ""
+        intervals [14]:
+            xmin = 3.748581
+            xmax = 3.929536
+            text = "tout"
+        intervals [15]:
+            xmin = 3.929536
+            xmax = 4.546000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.546000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.109916
+            text = ""
+        intervals [2]:
+            xmin = 3.109916
+            xmax = 3.541015
+            text = "NORP"
+        intervals [3]:
+            xmin = 3.541015
+            xmax = 4.546000
+            text = ""

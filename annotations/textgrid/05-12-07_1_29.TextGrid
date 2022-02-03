@@ -1,0 +1,212 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 6.855000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 6.855000
+        intervals: size = 41
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.997787
+            text = ""
+        intervals [2]:
+            xmin = 0.997787
+            xmax = 1.034995
+            text = "tu"
+        intervals [3]:
+            xmin = 1.034995
+            xmax = 1.084604
+            text = "as"
+        intervals [4]:
+            xmin = 1.084604
+            xmax = 1.536516
+            text = "Griselda"
+        intervals [5]:
+            xmin = 1.536516
+            xmax = 1.657439
+            text = "qui"
+        intervals [6]:
+            xmin = 1.657439
+            xmax = 1.772251
+            text = "est"
+        intervals [7]:
+            xmin = 1.772251
+            xmax = 1.936773
+            text = "au"
+        intervals [8]:
+            xmin = 1.936773
+            xmax = 2.160851
+            text = ""
+        intervals [9]:
+            xmin = 2.160851
+            xmax = 2.218230
+            text = "qui"
+        intervals [10]:
+            xmin = 2.218230
+            xmax = 2.263579
+            text = ""
+        intervals [11]:
+            xmin = 2.263579
+            xmax = 2.445899
+            text = "passe"
+        intervals [12]:
+            xmin = 2.445899
+            xmax = 2.531043
+            text = "le"
+        intervals [13]:
+            xmin = 2.531043
+            xmax = 2.531969
+            text = ""
+        intervals [14]:
+            xmin = 2.531969
+            xmax = 2.751308
+            text = "CAPES"
+        intervals [15]:
+            xmin = 2.751308
+            xmax = 2.904012
+            text = "je"
+        intervals [16]:
+            xmin = 2.904012
+            xmax = 2.945659
+            text = ""
+        intervals [17]:
+            xmin = 2.945659
+            xmax = 3.097438
+            text = "crois"
+        intervals [18]:
+            xmin = 3.097438
+            xmax = 3.128904
+            text = ""
+        intervals [19]:
+            xmin = 3.128904
+            xmax = 3.242738
+            text = "qui"
+        intervals [20]:
+            xmin = 3.242738
+            xmax = 3.253844
+            text = ""
+        intervals [21]:
+            xmin = 3.253844
+            xmax = 3.499096
+            text = "prépare"
+        intervals [22]:
+            xmin = 3.499096
+            xmax = 3.556476
+            text = "le"
+        intervals [23]:
+            xmin = 3.556476
+            xmax = 3.587943
+            text = ""
+        intervals [24]:
+            xmin = 3.587943
+            xmax = 3.913985
+            text = "CAPES"
+        intervals [25]:
+            xmin = 3.913985
+            xmax = 4.109999
+            text = "donc"
+        intervals [26]:
+            xmin = 4.109999
+            xmax = 4.183361
+            text = "elle"
+        intervals [27]:
+            xmin = 4.183361
+            xmax = 4.428665
+            text = "est"
+        intervals [28]:
+            xmin = 4.428665
+            xmax = 4.794329
+            text = "obligée"
+        intervals [29]:
+            xmin = 4.794329
+            xmax = 4.842473
+            text = "d'"
+        intervals [30]:
+            xmin = 4.842473
+            xmax = 4.926151
+            text = "aller"
+        intervals [31]:
+            xmin = 4.926151
+            xmax = 5.049950
+            text = "en"
+        intervals [32]:
+            xmin = 5.049950
+            xmax = 5.077226
+            text = ""
+        intervals [33]:
+            xmin = 5.077226
+            xmax = 5.229501
+            text = "cours"
+        intervals [34]:
+            xmin = 5.229501
+            xmax = 5.424477
+            text = "donc"
+        intervals [35]:
+            xmin = 5.424477
+            xmax = 5.477652
+            text = "elle"
+        intervals [36]:
+            xmin = 5.477652
+            xmax = 5.673433
+            text = "essaie"
+        intervals [37]:
+            xmin = 5.673433
+            xmax = 5.776561
+            text = "de"
+        intervals [38]:
+            xmin = 5.776561
+            xmax = 5.840210
+            text = "se"
+        intervals [39]:
+            xmin = 5.840210
+            xmax = 5.880494
+            text = ""
+        intervals [40]:
+            xmin = 5.880494
+            xmax = 6.330873
+            text = "partager"
+        intervals [41]:
+            xmin = 6.330873
+            xmax = 6.855000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 6.855000
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.084604
+            text = ""
+        intervals [2]:
+            xmin = 1.084604
+            xmax = 1.536516
+            text = "PERSON"
+        intervals [3]:
+            xmin = 1.536516
+            xmax = 2.531969
+            text = ""
+        intervals [4]:
+            xmin = 2.531969
+            xmax = 2.751308
+            text = "EVENT"
+        intervals [5]:
+            xmin = 2.751308
+            xmax = 3.587943
+            text = ""
+        intervals [6]:
+            xmin = 3.587943
+            xmax = 3.913985
+            text = "EVENT"
+        intervals [7]:
+            xmin = 3.913985
+            xmax = 6.855000
+            text = ""

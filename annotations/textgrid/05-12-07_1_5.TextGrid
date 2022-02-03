@@ -1,0 +1,132 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.407000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.407000
+        intervals: size = 22
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.672428
+            text = ""
+        intervals [2]:
+            xmin = 0.672428
+            xmax = 0.855589
+            text = "ben"
+        intervals [3]:
+            xmin = 0.855589
+            xmax = 1.007793
+            text = "le"
+        intervals [4]:
+            xmin = 1.007793
+            xmax = 1.268346
+            text = "celui"
+        intervals [5]:
+            xmin = 1.268346
+            xmax = 1.348318
+            text = "qui"
+        intervals [6]:
+            xmin = 1.348318
+            xmax = 1.477305
+            text = "était"
+        intervals [7]:
+            xmin = 1.477305
+            xmax = 1.678524
+            text = "venu"
+        intervals [8]:
+            xmin = 1.678524
+            xmax = 1.838468
+            text = "là"
+        intervals [9]:
+            xmin = 1.838468
+            xmax = 2.104180
+            text = ""
+        intervals [10]:
+            xmin = 2.104180
+            xmax = 2.230587
+            text = "qui"
+        intervals [11]:
+            xmin = 2.230587
+            xmax = 2.359574
+            text = "est"
+        intervals [12]:
+            xmin = 2.359574
+            xmax = 2.467923
+            text = "de"
+        intervals [13]:
+            xmin = 2.467923
+            xmax = 2.537576
+            text = ""
+        intervals [14]:
+            xmin = 2.537576
+            xmax = 2.749114
+            text = "Paris"
+        intervals [15]:
+            xmin = 2.749114
+            xmax = 2.986449
+            text = "sept"
+        intervals [16]:
+            xmin = 2.986449
+            xmax = 3.069001
+            text = "il"
+        intervals [17]:
+            xmin = 3.069001
+            xmax = 3.159292
+            text = "est"
+        intervals [18]:
+            xmin = 3.159292
+            xmax = 3.275380
+            text = "même"
+        intervals [19]:
+            xmin = 3.275380
+            xmax = 3.350192
+            text = "pas"
+        intervals [20]:
+            xmin = 3.350192
+            xmax = 3.404366
+            text = "de"
+        intervals [21]:
+            xmin = 3.404366
+            xmax = 3.786167
+            text = "Censier"
+        intervals [22]:
+            xmin = 3.786167
+            xmax = 4.407000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.407000
+        intervals: size = 6
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.537576
+            text = ""
+        intervals [2]:
+            xmin = 2.537576
+            xmax = 2.749114
+            text = "GPE"
+        intervals [3]:
+            xmin = 2.749114
+            xmax = 2.986449
+            text = "NUMBER"
+        intervals [4]:
+            xmin = 2.986449
+            xmax = 3.404366
+            text = ""
+        intervals [5]:
+            xmin = 3.404366
+            xmax = 3.786167
+            text = "GPE"
+        intervals [6]:
+            xmin = 3.786167
+            xmax = 4.407000
+            text = ""

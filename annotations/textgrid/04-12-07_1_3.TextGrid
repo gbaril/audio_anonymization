@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.767000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 2.767000
+        intervals: size = 12
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.589025
+            text = ""
+        intervals [2]:
+            xmin = 0.589025
+            xmax = 0.716983
+            text = "donc"
+        intervals [3]:
+            xmin = 0.716983
+            xmax = 1.070083
+            text = "finalement"
+        intervals [4]:
+            xmin = 1.070083
+            xmax = 1.173746
+            text = "ça"
+        intervals [5]:
+            xmin = 1.173746
+            xmax = 1.330859
+            text = "veut"
+        intervals [6]:
+            xmin = 1.330859
+            xmax = 1.431282
+            text = "plus"
+        intervals [7]:
+            xmin = 1.431282
+            xmax = 1.590015
+            text = "rien"
+        intervals [8]:
+            xmin = 1.590015
+            xmax = 1.721213
+            text = "dire"
+        intervals [9]:
+            xmin = 1.721213
+            xmax = 1.797340
+            text = "la"
+        intervals [10]:
+            xmin = 1.797340
+            xmax = 2.182834
+            text = "Sorbonne"
+        intervals [11]:
+            xmin = 2.182834
+            xmax = 2.265440
+            text = "quoi"
+        intervals [12]:
+            xmin = 2.265440
+            xmax = 2.767000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 2.767000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.797340
+            text = ""
+        intervals [2]:
+            xmin = 1.797340
+            xmax = 2.182834
+            text = "ORG"
+        intervals [3]:
+            xmin = 2.182834
+            xmax = 2.767000
+            text = ""

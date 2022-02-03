@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.909000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.909000
+        intervals: size = 29
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.524883
+            text = ""
+        intervals [2]:
+            xmin = 0.524883
+            xmax = 0.590976
+            text = "c'"
+        intervals [3]:
+            xmin = 0.590976
+            xmax = 0.659942
+            text = "est"
+        intervals [4]:
+            xmin = 0.659942
+            xmax = 0.774886
+            text = "fait"
+        intervals [5]:
+            xmin = 0.774886
+            xmax = 0.817990
+            text = ""
+        intervals [6]:
+            xmin = 0.817990
+            xmax = 0.898450
+            text = "pour"
+        intervals [7]:
+            xmin = 0.898450
+            xmax = 0.987532
+            text = "les"
+        intervals [8]:
+            xmin = 0.987532
+            xmax = 1.125464
+            text = "vieux"
+        intervals [9]:
+            xmin = 1.125464
+            xmax = 1.398455
+            text = "pervers"
+        intervals [10]:
+            xmin = 1.398455
+            xmax = 1.481789
+            text = "pour"
+        intervals [11]:
+            xmin = 1.481789
+            xmax = 1.567997
+            text = "se"
+        intervals [12]:
+            xmin = 1.567997
+            xmax = 1.703056
+            text = "taper"
+        intervals [13]:
+            xmin = 1.703056
+            xmax = 1.795011
+            text = "qui"
+        intervals [14]:
+            xmin = 1.795011
+            xmax = 1.863977
+            text = "se"
+        intervals [15]:
+            xmin = 1.863977
+            xmax = 1.961679
+            text = "tapent"
+        intervals [16]:
+            xmin = 1.961679
+            xmax = 2.082370
+            text = "des"
+        intervals [17]:
+            xmin = 2.082370
+            xmax = 2.269153
+            text = "queues"
+        intervals [18]:
+            xmin = 2.269153
+            xmax = 2.613984
+            text = "hein"
+        intervals [19]:
+            xmin = 2.613984
+            xmax = 2.978930
+            text = "quatre-vingts"
+        intervals [20]:
+            xmin = 2.978930
+            xmax = 3.228933
+            text = "pourcent"
+        intervals [21]:
+            xmin = 3.228933
+            xmax = 3.309393
+            text = "des"
+        intervals [22]:
+            xmin = 3.309393
+            xmax = 3.476062
+            text = "films"
+        intervals [23]:
+            xmin = 3.476062
+            xmax = 3.570890
+            text = "de"
+        intervals [24]:
+            xmin = 3.570890
+            xmax = 3.763421
+            text = "queue"
+        intervals [25]:
+            xmin = 3.763421
+            xmax = 3.987561
+            text = "de"
+        intervals [26]:
+            xmin = 3.987561
+            xmax = 4.082389
+            text = "de"
+        intervals [27]:
+            xmin = 4.082389
+            xmax = 4.191586
+            text = "cul"
+        intervals [28]:
+            xmin = 4.191586
+            xmax = 4.369749
+            text = "hein"
+        intervals [29]:
+            xmin = 4.369749
+            xmax = 4.909000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.909000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.613984
+            text = ""
+        intervals [2]:
+            xmin = 2.613984
+            xmax = 2.978930
+            text = "NUMBER"
+        intervals [3]:
+            xmin = 2.978930
+            xmax = 4.909000
+            text = ""

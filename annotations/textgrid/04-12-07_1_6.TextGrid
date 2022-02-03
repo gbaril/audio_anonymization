@@ -1,0 +1,232 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 9.154000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 9.154000
+        intervals: size = 48
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.630468
+            text = ""
+        intervals [2]:
+            xmin = 0.630468
+            xmax = 0.818015
+            text = "et"
+        intervals [3]:
+            xmin = 0.818015
+            xmax = 0.957336
+            text = "donc"
+        intervals [4]:
+            xmin = 0.957336
+            xmax = 1.171676
+            text = "lui"
+        intervals [5]:
+            xmin = 1.171676
+            xmax = 1.300280
+            text = "qui"
+        intervals [6]:
+            xmin = 1.300280
+            xmax = 1.766469
+            text = "a"
+        intervals [7]:
+            xmin = 1.766469
+            xmax = 2.189790
+            text = "vécu"
+        intervals [8]:
+            xmin = 2.189790
+            xmax = 2.323753
+            text = "on"
+        intervals [9]:
+            xmin = 2.323753
+            xmax = 2.420206
+            text = "va"
+        intervals [10]:
+            xmin = 2.420206
+            xmax = 2.688130
+            text = "dire"
+        intervals [11]:
+            xmin = 2.688130
+            xmax = 2.934621
+            text = "en"
+        intervals [12]:
+            xmin = 2.934621
+            xmax = 3.186470
+            text = ""
+        intervals [13]:
+            xmin = 3.186470
+            xmax = 3.304357
+            text = "en"
+        intervals [14]:
+            xmin = 3.304357
+            xmax = 3.641943
+            text = "Irlande"
+        intervals [15]:
+            xmin = 3.641943
+            xmax = 3.695527
+            text = "il"
+        intervals [16]:
+            xmin = 3.695527
+            xmax = 3.749112
+            text = "a"
+        intervals [17]:
+            xmin = 3.749112
+            xmax = 3.883075
+            text = "fait"
+        intervals [18]:
+            xmin = 3.883075
+            xmax = 3.990245
+            text = "du"
+        intervals [19]:
+            xmin = 3.990245
+            xmax = 4.226019
+            text = "g"
+        intervals [20]:
+            xmin = 4.226019
+            xmax = 4.333188
+            text = ""
+        intervals [21]:
+            xmin = 4.333188
+            xmax = 4.568962
+            text = "école"
+        intervals [22]:
+            xmin = 4.568962
+            xmax = 4.643981
+            text = "de"
+        intervals [23]:
+            xmin = 4.643981
+            xmax = 4.869038
+            text = "commerce"
+        intervals [24]:
+            xmin = 4.869038
+            xmax = 4.944057
+            text = "en"
+        intervals [25]:
+            xmin = 4.944057
+            xmax = 5.206623
+            text = "Irlande"
+        intervals [26]:
+            xmin = 5.206623
+            xmax = 5.270925
+            text = "mais"
+        intervals [27]:
+            xmin = 5.270925
+            xmax = 5.324510
+            text = "c'"
+        intervals [28]:
+            xmin = 5.324510
+            xmax = 5.388812
+            text = "est"
+        intervals [29]:
+            xmin = 5.388812
+            xmax = 5.565642
+            text = "pas"
+        intervals [30]:
+            xmin = 5.565642
+            xmax = 5.667454
+            text = "le"
+        intervals [31]:
+            xmin = 5.667454
+            xmax = 5.838926
+            text = "même"
+        intervals [32]:
+            xmin = 5.838926
+            xmax = 6.026473
+            text = "niveau"
+        intervals [33]:
+            xmin = 6.026473
+            xmax = 6.090775
+            text = "de"
+        intervals [34]:
+            xmin = 6.090775
+            xmax = 6.556964
+            text = "prépa"
+        intervals [35]:
+            xmin = 6.556964
+            xmax = 6.723077
+            text = "enfin"
+        intervals [36]:
+            xmin = 6.723077
+            xmax = 6.798096
+            text = "c'"
+        intervals [37]:
+            xmin = 6.798096
+            xmax = 6.996361
+            text = "était"
+        intervals [38]:
+            xmin = 6.996361
+            xmax = 7.028512
+            text = ""
+        intervals [39]:
+            xmin = 7.028512
+            xmax = 7.301795
+            text = "pas"
+        intervals [40]:
+            xmin = 7.301795
+            xmax = 7.542927
+            text = "comme"
+        intervals [41]:
+            xmin = 7.542927
+            xmax = 7.805494
+            text = "ici"
+        intervals [42]:
+            xmin = 7.805494
+            xmax = 8.025192
+            text = "où"
+        intervals [43]:
+            xmin = 8.025192
+            xmax = 8.137720
+            text = "tu"
+        intervals [44]:
+            xmin = 8.137720
+            xmax = 8.325268
+            text = "bosses"
+        intervals [45]:
+            xmin = 8.325268
+            xmax = 8.432438
+            text = "comme"
+        intervals [46]:
+            xmin = 8.432438
+            xmax = 8.502098
+            text = "un"
+        intervals [47]:
+            xmin = 8.502098
+            xmax = 8.654000
+            text = "dingue"
+        intervals [48]:
+            xmin = 8.654000
+            xmax = 9.154000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 9.154000
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.304357
+            text = ""
+        intervals [2]:
+            xmin = 3.304357
+            xmax = 3.641943
+            text = "GPE"
+        intervals [3]:
+            xmin = 3.641943
+            xmax = 4.944057
+            text = ""
+        intervals [4]:
+            xmin = 4.944057
+            xmax = 5.206623
+            text = "GPE"
+        intervals [5]:
+            xmin = 5.206623
+            xmax = 9.154000
+            text = ""

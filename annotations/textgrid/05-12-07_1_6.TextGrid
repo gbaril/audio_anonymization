@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.407000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.407000
+        intervals: size = 16
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.576977
+            text = ""
+        intervals [2]:
+            xmin = 0.576977
+            xmax = 1.103243
+            text = "on"
+        intervals [3]:
+            xmin = 1.103243
+            xmax = 1.193534
+            text = ""
+        intervals [4]:
+            xmin = 1.193534
+            xmax = 1.301883
+            text = "on"
+        intervals [5]:
+            xmin = 1.301883
+            xmax = 1.340579
+            text = "m'"
+        intervals [6]:
+            xmin = 1.340579
+            xmax = 1.526320
+            text = "avait"
+        intervals [7]:
+            xmin = 1.526320
+            xmax = 1.882323
+            text = "proposé"
+        intervals [8]:
+            xmin = 1.882323
+            xmax = 1.962295
+            text = "un"
+        intervals [9]:
+            xmin = 1.962295
+            xmax = 2.297660
+            text = "rendez-vous"
+        intervals [10]:
+            xmin = 2.297660
+            xmax = 2.537576
+            text = "avec"
+        intervals [11]:
+            xmin = 2.537576
+            xmax = 2.834245
+            text = "une"
+        intervals [12]:
+            xmin = 2.834245
+            xmax = 3.252162
+            text = "journaliste"
+        intervals [13]:
+            xmin = 3.252162
+            xmax = 3.352772
+            text = "du"
+        intervals [14]:
+            xmin = 3.352772
+            xmax = 3.605586
+            text = "Nouvel"
+        intervals [15]:
+            xmin = 3.605586
+            xmax = 3.855820
+            text = "Obs"
+        intervals [16]:
+            xmin = 3.855820
+            xmax = 4.407000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.407000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.352772
+            text = ""
+        intervals [2]:
+            xmin = 3.352772
+            xmax = 3.855820
+            text = "ORG"
+        intervals [3]:
+            xmin = 3.855820
+            xmax = 4.407000
+            text = ""

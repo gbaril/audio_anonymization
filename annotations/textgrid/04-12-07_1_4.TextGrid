@@ -1,0 +1,236 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 10.335000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 10.335000
+        intervals: size = 51
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.566612
+            text = ""
+        intervals [2]:
+            xmin = 0.566612
+            xmax = 1.105046
+            text = "euh"
+        intervals [3]:
+            xmin = 1.105046
+            xmax = 1.601131
+            text = ""
+        intervals [4]:
+            xmin = 1.601131
+            xmax = 1.806825
+            text = "un"
+        intervals [5]:
+            xmin = 1.806825
+            xmax = 1.849174
+            text = ""
+        intervals [6]:
+            xmin = 1.849174
+            xmax = 2.066967
+            text = "petit"
+        intervals [7]:
+            xmin = 2.066967
+            xmax = 2.339209
+            text = "euh"
+        intervals [8]:
+            xmin = 2.339209
+            xmax = 2.369458
+            text = ""
+        intervals [9]:
+            xmin = 2.369458
+            xmax = 2.532803
+            text = "plus"
+        intervals [10]:
+            xmin = 2.532803
+            xmax = 2.605401
+            text = "de"
+        intervals [11]:
+            xmin = 2.605401
+            xmax = 2.877643
+            text = "cinquante"
+        intervals [12]:
+            xmin = 2.877643
+            xmax = 3.149885
+            text = "pourcent"
+        intervals [13]:
+            xmin = 3.149885
+            xmax = 3.246682
+            text = "en"
+        intervals [14]:
+            xmin = 3.246682
+            xmax = 3.567323
+            text = "prépa"
+        intervals [15]:
+            xmin = 3.567323
+            xmax = 3.597572
+            text = ""
+        intervals [16]:
+            xmin = 3.597572
+            xmax = 3.748817
+            text = "quand"
+        intervals [17]:
+            xmin = 3.748817
+            xmax = 4.081557
+            text = "même"
+        intervals [18]:
+            xmin = 4.081557
+            xmax = 4.396148
+            text = ""
+        intervals [19]:
+            xmin = 4.396148
+            xmax = 4.523194
+            text = "et"
+        intervals [20]:
+            xmin = 4.523194
+            xmax = 4.722838
+            text = "euh"
+        intervals [21]:
+            xmin = 4.722838
+            xmax = 4.831735
+            text = "le"
+        intervals [22]:
+            xmin = 4.831735
+            xmax = 5.182625
+            text = "reste"
+        intervals [23]:
+            xmin = 5.182625
+            xmax = 5.327820
+            text = "euh"
+        intervals [24]:
+            xmin = 5.327820
+            xmax = 5.400418
+            text = "c'"
+        intervals [25]:
+            xmin = 5.400418
+            xmax = 5.473016
+            text = "est"
+        intervals [26]:
+            xmin = 5.473016
+            xmax = 5.479066
+            text = ""
+        intervals [27]:
+            xmin = 5.479066
+            xmax = 5.975151
+            text = "des"
+        intervals [28]:
+            xmin = 5.975151
+            xmax = 6.096147
+            text = "il"
+        intervals [29]:
+            xmin = 6.096147
+            xmax = 6.144546
+            text = "y"
+        intervals [30]:
+            xmin = 6.144546
+            xmax = 6.211094
+            text = "a"
+        intervals [31]:
+            xmin = 6.211094
+            xmax = 6.362339
+            text = "des"
+        intervals [32]:
+            xmin = 6.362339
+            xmax = 6.525685
+            text = "gens"
+        intervals [33]:
+            xmin = 6.525685
+            xmax = 6.664830
+            text = "qui"
+        intervals [34]:
+            xmin = 6.664830
+            xmax = 6.822126
+            text = "viennent"
+        intervals [35]:
+            xmin = 6.822126
+            xmax = 6.870524
+            text = "d'"
+        intervals [36]:
+            xmin = 6.870524
+            xmax = 7.287962
+            text = "IUT"
+        intervals [37]:
+            xmin = 7.287962
+            xmax = 7.529955
+            text = ""
+        intervals [38]:
+            xmin = 7.529955
+            xmax = 7.620702
+            text = "et"
+        intervals [39]:
+            xmin = 7.620702
+            xmax = 7.657001
+            text = "y"
+        intervals [40]:
+            xmin = 7.657001
+            xmax = 7.735649
+            text = "a"
+        intervals [41]:
+            xmin = 7.735649
+            xmax = 7.832446
+            text = "des"
+        intervals [42]:
+            xmin = 7.832446
+            xmax = 8.013940
+            text = "gens"
+        intervals [43]:
+            xmin = 8.013940
+            xmax = 8.183335
+            text = "qui"
+        intervals [44]:
+            xmin = 8.183335
+            xmax = 8.389029
+            text = "viennent"
+        intervals [45]:
+            xmin = 8.389029
+            xmax = 8.618922
+            text = "de"
+        intervals [46]:
+            xmin = 8.618922
+            xmax = 8.721769
+            text = "d'"
+        intervals [47]:
+            xmin = 8.721769
+            xmax = 9.096858
+            text = "une"
+        intervals [48]:
+            xmin = 9.096858
+            xmax = 9.163406
+            text = "d'"
+        intervals [49]:
+            xmin = 9.163406
+            xmax = 9.284402
+            text = "une"
+        intervals [50]:
+            xmin = 9.284402
+            xmax = 9.822836
+            text = "license"
+        intervals [51]:
+            xmin = 9.822836
+            xmax = 10.335000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 10.335000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 6.870524
+            text = ""
+        intervals [2]:
+            xmin = 6.870524
+            xmax = 7.287962
+            text = "ORG"
+        intervals [3]:
+            xmin = 7.287962
+            xmax = 10.335000
+            text = ""

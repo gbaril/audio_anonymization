@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.856000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.856000
+        intervals: size = 24
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.873846
+            text = ""
+        intervals [2]:
+            xmin = 0.873846
+            xmax = 1.182020
+            text = "après"
+        intervals [3]:
+            xmin = 1.182020
+            xmax = 1.325481
+            text = "tout"
+        intervals [4]:
+            xmin = 1.325481
+            xmax = 1.580521
+            text = "dépend"
+        intervals [5]:
+            xmin = 1.580521
+            xmax = 1.708041
+            text = "ce"
+        intervals [6]:
+            xmin = 1.708041
+            xmax = 1.777115
+            text = "que"
+        intervals [7]:
+            xmin = 1.777115
+            xmax = 1.984336
+            text = "tu"
+        intervals [8]:
+            xmin = 1.984336
+            xmax = 2.090602
+            text = "fais"
+        intervals [9]:
+            xmin = 2.090602
+            xmax = 2.223436
+            text = "aussi"
+        intervals [10]:
+            xmin = 2.223436
+            xmax = 2.255316
+            text = ""
+        intervals [11]:
+            xmin = 2.255316
+            xmax = 2.356270
+            text = "tu"
+        intervals [12]:
+            xmin = 2.356270
+            xmax = 2.393463
+            text = ""
+        intervals [13]:
+            xmin = 2.393463
+            xmax = 2.489103
+            text = "peux"
+        intervals [14]:
+            xmin = 2.489103
+            xmax = 2.590057
+            text = "te"
+        intervals [15]:
+            xmin = 2.590057
+            xmax = 3.004498
+            text = "spécialiser"
+        intervals [16]:
+            xmin = 3.004498
+            xmax = 3.190465
+            text = "dans"
+        intervals [17]:
+            xmin = 3.190465
+            xmax = 3.365806
+            text = "plein"
+        intervals [18]:
+            xmin = 3.365806
+            xmax = 3.514579
+            text = "de"
+        intervals [19]:
+            xmin = 3.514579
+            xmax = 3.652726
+            text = "truc"
+        intervals [20]:
+            xmin = 3.652726
+            xmax = 3.727113
+            text = "à"
+        intervals [21]:
+            xmin = 3.727113
+            xmax = 3.982154
+            text = "science"
+        intervals [22]:
+            xmin = 3.982154
+            xmax = 4.141554
+            text = "Po"
+        intervals [23]:
+            xmin = 4.141554
+            xmax = 4.348775
+            text = "quoi"
+        intervals [24]:
+            xmin = 4.348775
+            xmax = 4.856000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.856000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.982154
+            text = ""
+        intervals [2]:
+            xmin = 3.982154
+            xmax = 4.141554
+            text = "ORG"
+        intervals [3]:
+            xmin = 4.141554
+            xmax = 4.856000
+            text = ""

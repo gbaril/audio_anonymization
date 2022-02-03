@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.742000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.742000
+        intervals: size = 24
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.515355
+            text = ""
+        intervals [2]:
+            xmin = 0.515355
+            xmax = 0.701336
+            text = "ouais"
+        intervals [3]:
+            xmin = 0.701336
+            xmax = 0.817921
+            text = "moi"
+        intervals [4]:
+            xmin = 0.817921
+            xmax = 0.951161
+            text = "c'est"
+        intervals [5]:
+            xmin = 0.951161
+            xmax = 1.134366
+            text = "pareil"
+        intervals [6]:
+            xmin = 1.134366
+            xmax = 1.253727
+            text = "c'est"
+        intervals [7]:
+            xmin = 1.253727
+            xmax = 1.314795
+            text = "pour"
+        intervals [8]:
+            xmin = 1.314795
+            xmax = 1.450811
+            text = "ça"
+        intervals [9]:
+            xmin = 1.450811
+            xmax = 1.475793
+            text = "il"
+        intervals [10]:
+            xmin = 1.475793
+            xmax = 1.492448
+            text = "y"
+        intervals [11]:
+            xmin = 1.492448
+            xmax = 1.517431
+            text = "a"
+        intervals [12]:
+            xmin = 1.517431
+            xmax = 1.745049
+            text = "beaucoup"
+        intervals [13]:
+            xmin = 1.745049
+            xmax = 1.803342
+            text = "de"
+        intervals [14]:
+            xmin = 1.803342
+            xmax = 2.275234
+            text = "propositions"
+        intervals [15]:
+            xmin = 2.275234
+            xmax = 2.416801
+            text = "qu'elle"
+        intervals [16]:
+            xmin = 2.416801
+            xmax = 2.500076
+            text = "nous"
+        intervals [17]:
+            xmin = 2.500076
+            xmax = 2.716591
+            text = "envoie"
+        intervals [18]:
+            xmin = 2.716591
+            xmax = 3.035812
+            text = "Carré"
+        intervals [19]:
+            xmin = 3.035812
+            xmax = 3.144070
+            text = "je"
+        intervals [20]:
+            xmin = 3.144070
+            xmax = 3.191259
+            text = "les"
+        intervals [21]:
+            xmin = 3.191259
+            xmax = 3.416102
+            text = "regarde"
+        intervals [22]:
+            xmin = 3.416102
+            xmax = 3.557669
+            text = "je"
+        intervals [23]:
+            xmin = 3.557669
+            xmax = 3.718667
+            text = "fais"
+        intervals [24]:
+            xmin = 3.718667
+            xmax = 4.742000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.742000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.716591
+            text = ""
+        intervals [2]:
+            xmin = 2.716591
+            xmax = 3.035812
+            text = "PERSON"
+        intervals [3]:
+            xmin = 3.035812
+            xmax = 4.742000
+            text = ""

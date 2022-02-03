@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.797000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.797000
+        intervals: size = 20
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.563453
+            text = ""
+        intervals [2]:
+            xmin = 0.563453
+            xmax = 0.667350
+            text = "c'"
+        intervals [3]:
+            xmin = 0.667350
+            xmax = 0.816175
+            text = "était"
+        intervals [4]:
+            xmin = 0.816175
+            xmax = 0.880760
+            text = ""
+        intervals [5]:
+            xmin = 0.880760
+            xmax = 1.113826
+            text = "pas"
+        intervals [6]:
+            xmin = 1.113826
+            xmax = 1.442366
+            text = "ils"
+        intervals [7]:
+            xmin = 1.442366
+            xmax = 1.745633
+            text = "votaient"
+        intervals [8]:
+            xmin = 1.745633
+            xmax = 1.762481
+            text = ""
+        intervals [9]:
+            xmin = 1.762481
+            xmax = 1.897267
+            text = "pas"
+        intervals [10]:
+            xmin = 1.897267
+            xmax = 1.939387
+            text = ""
+        intervals [11]:
+            xmin = 1.939387
+            xmax = 2.178070
+            text = "pour"
+        intervals [12]:
+            xmin = 2.178070
+            xmax = 2.380248
+            text = "elle"
+        intervals [13]:
+            xmin = 2.380248
+            xmax = 2.461681
+            text = "mais"
+        intervals [14]:
+            xmin = 2.461681
+            xmax = 2.540305
+            text = "ils"
+        intervals [15]:
+            xmin = 2.540305
+            xmax = 2.793028
+            text = "votaient"
+        intervals [16]:
+            xmin = 2.793028
+            xmax = 2.894117
+            text = ""
+        intervals [17]:
+            xmin = 2.894117
+            xmax = 3.239505
+            text = "contre"
+        intervals [18]:
+            xmin = 3.239505
+            xmax = 3.680366
+            text = "euh"
+        intervals [19]:
+            xmin = 3.680366
+            xmax = 4.208275
+            text = "Sarkozy"
+        intervals [20]:
+            xmin = 4.208275
+            xmax = 4.797000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.797000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.680366
+            text = ""
+        intervals [2]:
+            xmin = 3.680366
+            xmax = 4.208275
+            text = "PERSON"
+        intervals [3]:
+            xmin = 4.208275
+            xmax = 4.797000
+            text = ""

@@ -1,0 +1,164 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 7.132000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 7.132000
+        intervals: size = 33
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.896169
+            text = ""
+        intervals [2]:
+            xmin = 0.896169
+            xmax = 1.104912
+            text = "parce"
+        intervals [3]:
+            xmin = 1.104912
+            xmax = 1.196759
+            text = "que"
+        intervals [4]:
+            xmin = 1.196759
+            xmax = 1.267732
+            text = "j'"
+        intervals [5]:
+            xmin = 1.267732
+            xmax = 1.539099
+            text = "apparais"
+        intervals [6]:
+            xmin = 1.539099
+            xmax = 1.706094
+            text = "très"
+        intervals [7]:
+            xmin = 1.706094
+            xmax = 1.822990
+            text = "peu"
+        intervals [8]:
+            xmin = 1.822990
+            xmax = 1.914838
+            text = "dans"
+        intervals [9]:
+            xmin = 1.914838
+            xmax = 1.956586
+            text = "l'"
+        intervals [10]:
+            xmin = 1.956586
+            xmax = 2.278052
+            text = "article"
+        intervals [11]:
+            xmin = 2.278052
+            xmax = 2.374074
+            text = "et"
+        intervals [12]:
+            xmin = 2.374074
+            xmax = 2.378249
+            text = ""
+        intervals [13]:
+            xmin = 2.378249
+            xmax = 2.428347
+            text = "qu'"
+        intervals [14]:
+            xmin = 2.428347
+            xmax = 2.482620
+            text = "il"
+        intervals [15]:
+            xmin = 2.482620
+            xmax = 2.528544
+            text = "y"
+        intervals [16]:
+            xmin = 2.528544
+            xmax = 2.628741
+            text = "a"
+        intervals [17]:
+            xmin = 2.628741
+            xmax = 2.824960
+            text = "une"
+        intervals [18]:
+            xmin = 2.824960
+            xmax = 3.092152
+            text = "ligne"
+        intervals [19]:
+            xmin = 3.092152
+            xmax = 3.254972
+            text = "euh"
+        intervals [20]:
+            xmin = 3.254972
+            xmax = 3.789356
+            text = "directrice"
+        intervals [21]:
+            xmin = 3.789356
+            xmax = 3.864503
+            text = "qui"
+        intervals [22]:
+            xmin = 3.864503
+            xmax = 3.989750
+            text = "est"
+        intervals [23]:
+            xmin = 3.989750
+            xmax = 4.290341
+            text = "de"
+        intervals [24]:
+            xmin = 4.290341
+            xmax = 4.816375
+            text = ""
+        intervals [25]:
+            xmin = 4.816375
+            xmax = 4.878998
+            text = "il"
+        intervals [26]:
+            xmin = 4.878998
+            xmax = 4.904047
+            text = "y"
+        intervals [27]:
+            xmin = 4.904047
+            xmax = 4.975020
+            text = "a"
+        intervals [28]:
+            xmin = 4.975020
+            xmax = 5.087741
+            text = "par"
+        intervals [29]:
+            xmin = 5.087741
+            xmax = 5.350758
+            text = "exemple"
+        intervals [30]:
+            xmin = 5.350758
+            xmax = 5.459305
+            text = "une"
+        intervals [31]:
+            xmin = 5.459305
+            xmax = 5.634650
+            text = "fille"
+        intervals [32]:
+            xmin = 5.634650
+            xmax = 6.006213
+            text = "Julie"
+        intervals [33]:
+            xmin = 6.006213
+            xmax = 7.132000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 7.132000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 5.634650
+            text = ""
+        intervals [2]:
+            xmin = 5.634650
+            xmax = 6.006213
+            text = "PERSON"
+        intervals [3]:
+            xmin = 6.006213
+            xmax = 7.132000
+            text = ""

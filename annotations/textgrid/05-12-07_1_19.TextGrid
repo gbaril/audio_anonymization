@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.557000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 2.557000
+        intervals: size = 9
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.604193
+            text = ""
+        intervals [2]:
+            xmin = 0.604193
+            xmax = 0.776325
+            text = "même"
+        intervals [3]:
+            xmin = 0.776325
+            xmax = 0.949953
+            text = "sur"
+        intervals [4]:
+            xmin = 0.949953
+            xmax = 1.060716
+            text = "la"
+        intervals [5]:
+            xmin = 1.060716
+            xmax = 1.470838
+            text = "LRU"
+        intervals [6]:
+            xmin = 1.470838
+            xmax = 1.617524
+            text = "si"
+        intervals [7]:
+            xmin = 1.617524
+            xmax = 1.713319
+            text = "tu"
+        intervals [8]:
+            xmin = 1.713319
+            xmax = 2.008188
+            text = "veux"
+        intervals [9]:
+            xmin = 2.008188
+            xmax = 2.557000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 2.557000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.060716
+            text = ""
+        intervals [2]:
+            xmin = 1.060716
+            xmax = 1.470838
+            text = "LAW"
+        intervals [3]:
+            xmin = 1.470838
+            xmax = 2.557000
+            text = ""

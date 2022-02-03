@@ -1,0 +1,204 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 8.732000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 8.732000
+        intervals: size = 43
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.580958
+            text = ""
+        intervals [2]:
+            xmin = 0.580958
+            xmax = 0.764970
+            text = "donc"
+        intervals [3]:
+            xmin = 0.764970
+            xmax = 0.846754
+            text = "que"
+        intervals [4]:
+            xmin = 0.846754
+            xmax = 0.892757
+            text = "l'"
+        intervals [5]:
+            xmin = 0.892757
+            xmax = 1.419238
+            text = "évolution"
+        intervals [6]:
+            xmin = 1.419238
+            xmax = 1.521468
+            text = "ben"
+        intervals [7]:
+            xmin = 1.521468
+            xmax = 1.710592
+            text = "là"
+        intervals [8]:
+            xmin = 1.710592
+            xmax = 1.863936
+            text = "on"
+        intervals [9]:
+            xmin = 1.863936
+            xmax = 1.991723
+            text = "on"
+        intervals [10]:
+            xmin = 1.991723
+            xmax = 2.180847
+            text = "pense"
+        intervals [11]:
+            xmin = 2.180847
+            xmax = 2.226850
+            text = "qu'"
+        intervals [12]:
+            xmin = 2.226850
+            xmax = 2.318857
+            text = "on"
+        intervals [13]:
+            xmin = 2.318857
+            xmax = 2.410863
+            text = "est"
+        intervals [14]:
+            xmin = 2.410863
+            xmax = 2.477312
+            text = "à"
+        intervals [15]:
+            xmin = 2.477312
+            xmax = 2.528427
+            text = "un"
+        intervals [16]:
+            xmin = 2.528427
+            xmax = 2.957790
+            text = "stade"
+        intervals [17]:
+            xmin = 2.957790
+            xmax = 3.366708
+            text = "euh"
+        intervals [18]:
+            xmin = 3.366708
+            xmax = 3.576278
+            text = "ouah"
+        intervals [19]:
+            xmin = 3.576278
+            xmax = 3.668285
+            text = "c'"
+        intervals [20]:
+            xmin = 3.668285
+            xmax = 3.739845
+            text = "est"
+        intervals [21]:
+            xmin = 3.739845
+            xmax = 3.780737
+            text = "de"
+        intervals [22]:
+            xmin = 3.780737
+            xmax = 3.867632
+            text = "la"
+        intervals [23]:
+            xmin = 3.867632
+            xmax = 4.475897
+            text = "folie"
+        intervals [24]:
+            xmin = 4.475897
+            xmax = 4.629241
+            text = "on"
+        intervals [25]:
+            xmin = 4.629241
+            xmax = 4.695690
+            text = "a"
+        intervals [26]:
+            xmin = 4.695690
+            xmax = 4.854145
+            text = "des"
+        intervals [27]:
+            xmin = 4.854145
+            xmax = 4.966598
+            text = ""
+        intervals [28]:
+            xmin = 4.966598
+            xmax = 5.365292
+            text = "PC"
+        intervals [29]:
+            xmin = 5.365292
+            xmax = 5.493079
+            text = "qui"
+        intervals [30]:
+            xmin = 5.493079
+            xmax = 5.656646
+            text = "font"
+        intervals [31]:
+            xmin = 5.656646
+            xmax = 5.748652
+            text = "des"
+        intervals [32]:
+            xmin = 5.748652
+            xmax = 5.973557
+            text = "trucs"
+        intervals [33]:
+            xmin = 5.973557
+            xmax = 6.065563
+            text = "de"
+        intervals [34]:
+            xmin = 6.065563
+            xmax = 6.259799
+            text = "fous"
+        intervals [35]:
+            xmin = 6.259799
+            xmax = 6.341583
+            text = "et"
+        intervals [36]:
+            xmin = 6.341583
+            xmax = 6.433589
+            text = "des"
+        intervals [37]:
+            xmin = 6.433589
+            xmax = 6.883398
+            text = "connexions"
+        intervals [38]:
+            xmin = 6.883398
+            xmax = 6.980516
+            text = "à"
+        intervals [39]:
+            xmin = 6.980516
+            xmax = 7.251424
+            text = "cent"
+        intervals [40]:
+            xmin = 7.251424
+            xmax = 7.691010
+            text = "méga"
+        intervals [41]:
+            xmin = 7.691010
+            xmax = 7.941472
+            text = ""
+        intervals [42]:
+            xmin = 7.941472
+            xmax = 8.069259
+            text = "et"
+        intervals [43]:
+            xmin = 8.069259
+            xmax = 8.732000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 8.732000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 6.980516
+            text = ""
+        intervals [2]:
+            xmin = 6.980516
+            xmax = 7.251424
+            text = "NUMBER"
+        intervals [3]:
+            xmin = 7.251424
+            xmax = 8.732000
+            text = ""

@@ -1,0 +1,180 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 6.352021
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 6.352021
+        intervals: size = 35
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.511852
+            text = ""
+        intervals [2]:
+            xmin = 0.511852
+            xmax = 0.708921
+            text = "parce"
+        intervals [3]:
+            xmin = 0.708921
+            xmax = 0.760978
+            text = "que"
+        intervals [4]:
+            xmin = 0.760978
+            xmax = 0.835344
+            text = "je"
+        intervals [5]:
+            xmin = 0.835344
+            xmax = 1.140244
+            text = "regardais"
+        intervals [6]:
+            xmin = 1.140244
+            xmax = 1.441426
+            text = "aussi"
+        intervals [7]:
+            xmin = 1.441426
+            xmax = 1.463735
+            text = ""
+        intervals [8]:
+            xmin = 1.463735
+            xmax = 1.616186
+            text = "parce"
+        intervals [9]:
+            xmin = 1.616186
+            xmax = 1.679397
+            text = "que"
+        intervals [10]:
+            xmin = 1.679397
+            xmax = 1.746326
+            text = "j'"
+        intervals [11]:
+            xmin = 1.746326
+            xmax = 1.939677
+            text = "avais"
+        intervals [12]:
+            xmin = 1.939677
+            xmax = 2.058663
+            text = "des"
+        intervals [13]:
+            xmin = 2.058663
+            xmax = 2.225986
+            text = "des"
+        intervals [14]:
+            xmin = 2.225986
+            xmax = 2.489985
+            text = "amis"
+        intervals [15]:
+            xmin = 2.489985
+            xmax = 2.545759
+            text = "qui"
+        intervals [16]:
+            xmin = 2.545759
+            xmax = 2.850660
+            text = "suivaient"
+        intervals [17]:
+            xmin = 2.850660
+            xmax = 3.092349
+            text = "des"
+        intervals [18]:
+            xmin = 3.092349
+            xmax = 3.129532
+            text = ""
+        intervals [19]:
+            xmin = 3.129532
+            xmax = 3.285700
+            text = "des"
+        intervals [20]:
+            xmin = 3.285700
+            xmax = 3.568291
+            text = "équipes"
+        intervals [21]:
+            xmin = 3.568291
+            xmax = 3.713304
+            text = "de"
+        intervals [22]:
+            xmin = 3.713304
+            xmax = 3.958712
+            text = "près"
+        intervals [23]:
+            xmin = 3.958712
+            xmax = 4.007050
+            text = "c'"
+        intervals [24]:
+            xmin = 4.007050
+            xmax = 4.248739
+            text = "était"
+        intervals [25]:
+            xmin = 4.248739
+            xmax = 4.401189
+            text = "euh"
+        intervals [26]:
+            xmin = 4.401189
+            xmax = 4.535047
+            text = "la"
+        intervals [27]:
+            xmin = 4.535047
+            xmax = 4.549921
+            text = ""
+        intervals [28]:
+            xmin = 4.549921
+            xmax = 4.810201
+            text = "CAF"
+        intervals [29]:
+            xmin = 4.810201
+            xmax = 4.880849
+            text = "la"
+        intervals [30]:
+            xmin = 4.880849
+            xmax = 5.048172
+            text = "coupe"
+        intervals [31]:
+            xmin = 5.048172
+            xmax = 5.100228
+            text = "d'"
+        intervals [32]:
+            xmin = 5.100228
+            xmax = 5.371664
+            text = "Afrique"
+        intervals [33]:
+            xmin = 5.371664
+            xmax = 5.449748
+            text = "des"
+        intervals [34]:
+            xmin = 5.449748
+            xmax = 5.776958
+            text = "Nations"
+        intervals [35]:
+            xmin = 5.776958
+            xmax = 6.352021
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 6.352021
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 4.549921
+            text = ""
+        intervals [2]:
+            xmin = 4.549921
+            xmax = 4.810201
+            text = "EVENT"
+        intervals [3]:
+            xmin = 4.810201
+            xmax = 4.880849
+            text = ""
+        intervals [4]:
+            xmin = 4.880849
+            xmax = 5.776958
+            text = "EVENT"
+        intervals [5]:
+            xmin = 5.776958
+            xmax = 6.352021
+            text = ""

@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 5.622000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 5.622000
+        intervals: size = 18
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.578083
+            text = ""
+        intervals [2]:
+            xmin = 0.578083
+            xmax = 0.660357
+            text = "et"
+        intervals [3]:
+            xmin = 0.660357
+            xmax = 0.716303
+            text = "ils"
+        intervals [4]:
+            xmin = 0.716303
+            xmax = 1.019071
+            text = "montraient"
+        intervals [5]:
+            xmin = 1.019071
+            xmax = 1.489679
+            text = "justement"
+        intervals [6]:
+            xmin = 1.489679
+            xmax = 2.009651
+            text = "un"
+        intervals [7]:
+            xmin = 2.009651
+            xmax = 2.819227
+            text = ""
+        intervals [8]:
+            xmin = 2.819227
+            xmax = 3.016685
+            text = "un"
+        intervals [9]:
+            xmin = 3.016685
+            xmax = 3.312872
+            text = "chef"
+        intervals [10]:
+            xmin = 3.312872
+            xmax = 3.401728
+            text = "de"
+        intervals [11]:
+            xmin = 3.401728
+            xmax = 3.990810
+            text = "Sochaux"
+        intervals [12]:
+            xmin = 3.990810
+            xmax = 4.102702
+            text = "et"
+        intervals [13]:
+            xmin = 4.102702
+            xmax = 4.221177
+            text = "un"
+        intervals [14]:
+            xmin = 4.221177
+            xmax = 4.487745
+            text = "chef"
+        intervals [15]:
+            xmin = 4.487745
+            xmax = 4.721403
+            text = "de"
+        intervals [16]:
+            xmin = 4.721403
+            xmax = 4.843169
+            text = "de"
+        intervals [17]:
+            xmin = 4.843169
+            xmax = 5.060372
+            text = "Lyon"
+        intervals [18]:
+            xmin = 5.060372
+            xmax = 5.622000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 5.622000
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 3.401728
+            text = ""
+        intervals [2]:
+            xmin = 3.401728
+            xmax = 3.990810
+            text = "GPE"
+        intervals [3]:
+            xmin = 3.990810
+            xmax = 4.843169
+            text = ""
+        intervals [4]:
+            xmin = 4.843169
+            xmax = 5.060372
+            text = "GPE"
+        intervals [5]:
+            xmin = 5.060372
+            xmax = 5.622000
+            text = ""

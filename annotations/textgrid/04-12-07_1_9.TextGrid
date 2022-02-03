@@ -1,0 +1,324 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 12.970000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 12.970000
+        intervals: size = 73
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.500000
+            text = ""
+        intervals [2]:
+            xmin = 0.500000
+            xmax = 0.589598
+            text = "ils"
+        intervals [3]:
+            xmin = 0.589598
+            xmax = 0.786997
+            text = "étaient"
+        intervals [4]:
+            xmin = 0.786997
+            xmax = 0.878105
+            text = "en"
+        intervals [5]:
+            xmin = 0.878105
+            xmax = 1.029950
+            text = "train"
+        intervals [6]:
+            xmin = 1.029950
+            xmax = 1.212165
+            text = "dé"
+        intervals [7]:
+            xmin = 1.212165
+            xmax = 1.455118
+            text = "dé"
+        intervals [8]:
+            xmin = 1.455118
+            xmax = 1.660109
+            text = "d'"
+        intervals [9]:
+            xmin = 1.660109
+            xmax = 1.941023
+            text = "ex"
+        intervals [10]:
+            xmin = 1.941023
+            xmax = 2.108053
+            text = "enfin"
+        intervals [11]:
+            xmin = 2.108053
+            xmax = 2.252307
+            text = "c'"
+        intervals [12]:
+            xmin = 2.252307
+            xmax = 2.381375
+            text = "était"
+        intervals [13]:
+            xmin = 2.381375
+            xmax = 2.760989
+            text = "ridicule"
+        intervals [14]:
+            xmin = 2.760989
+            xmax = 2.850730
+            text = "c'"
+        intervals [15]:
+            xmin = 2.850730
+            xmax = 3.079865
+            text = "était"
+        intervals [16]:
+            xmin = 3.079865
+            xmax = 3.268686
+            text = ""
+        intervals [17]:
+            xmin = 3.268686
+            xmax = 3.405663
+            text = "un"
+        intervals [18]:
+            xmin = 3.405663
+            xmax = 3.528591
+            text = "peu"
+        intervals [19]:
+            xmin = 3.528591
+            xmax = 3.718251
+            text = "comme"
+        intervals [20]:
+            xmin = 3.718251
+            xmax = 3.799033
+            text = "nous"
+        intervals [21]:
+            xmin = 3.799033
+            xmax = 3.848204
+            text = "on"
+        intervals [22]:
+            xmin = 3.848204
+            xmax = 3.939522
+            text = "a"
+        intervals [23]:
+            xmin = 3.939522
+            xmax = 4.087036
+            text = "fait"
+        intervals [24]:
+            xmin = 4.087036
+            xmax = 4.255623
+            text = "à"
+        intervals [25]:
+            xmin = 4.255623
+            xmax = 4.691140
+            text = "Erénatti"
+        intervals [26]:
+            xmin = 4.691140
+            xmax = 4.838654
+            text = "quoi"
+        intervals [27]:
+            xmin = 4.838654
+            xmax = 4.940508
+            text = "c'"
+        intervals [28]:
+            xmin = 4.940508
+            xmax = 5.028314
+            text = "est"
+        intervals [29]:
+            xmin = 5.028314
+            xmax = 5.105583
+            text = "t'"
+        intervals [30]:
+            xmin = 5.105583
+            xmax = 5.432221
+            text = "explique"
+        intervals [31]:
+            xmin = 5.432221
+            xmax = 5.593783
+            text = "à"
+        intervals [32]:
+            xmin = 5.593783
+            xmax = 6.434631
+            text = ""
+        intervals [33]:
+            xmin = 6.434631
+            xmax = 6.553169
+            text = "des"
+        intervals [34]:
+            xmin = 6.553169
+            xmax = 6.711219
+            text = "gens"
+        intervals [35]:
+            xmin = 6.711219
+            xmax = 6.820976
+            text = "qui"
+        intervals [36]:
+            xmin = 6.820976
+            xmax = 6.826830
+            text = ""
+        intervals [37]:
+            xmin = 6.826830
+            xmax = 7.088784
+            text = "connaissent"
+        intervals [38]:
+            xmin = 7.088784
+            xmax = 7.223420
+            text = "bien"
+        intervals [39]:
+            xmin = 7.223420
+            xmax = 7.327323
+            text = "mieux"
+        intervals [40]:
+            xmin = 7.327323
+            xmax = 7.358055
+            text = "que"
+        intervals [41]:
+            xmin = 7.358055
+            xmax = 7.410739
+            text = ""
+        intervals [42]:
+            xmin = 7.410739
+            xmax = 7.479520
+            text = "toi"
+        intervals [43]:
+            xmin = 7.479520
+            xmax = 7.568789
+            text = "le"
+        intervals [44]:
+            xmin = 7.568789
+            xmax = 7.609765
+            text = ""
+        intervals [45]:
+            xmin = 7.609765
+            xmax = 8.078463
+            text = "territoire"
+        intervals [46]:
+            xmin = 8.078463
+            xmax = 8.328218
+            text = "que"
+        intervals [47]:
+            xmin = 8.328218
+            xmax = 8.462701
+            text = "tu"
+        intervals [48]:
+            xmin = 8.462701
+            xmax = 8.693244
+            text = "leur"
+        intervals [49]:
+            xmin = 8.693244
+            xmax = 8.808516
+            text = "tu"
+        intervals [50]:
+            xmin = 8.808516
+            xmax = 8.923787
+            text = "leur"
+        intervals [51]:
+            xmin = 8.923787
+            xmax = 9.141522
+            text = "euh"
+        intervals [52]:
+            xmin = 9.141522
+            xmax = 9.311227
+            text = ""
+        intervals [53]:
+            xmin = 9.311227
+            xmax = 9.631426
+            text = "analyses"
+        intervals [54]:
+            xmin = 9.631426
+            xmax = 9.759505
+            text = "les"
+        intervals [55]:
+            xmin = 9.759505
+            xmax = 9.935614
+            text = "trucs"
+        intervals [56]:
+            xmin = 9.935614
+            xmax = 10.243005
+            text = "sachant"
+        intervals [57]:
+            xmin = 10.243005
+            xmax = 10.316651
+            text = "que"
+        intervals [58]:
+            xmin = 10.316651
+            xmax = 10.441528
+            text = "là"
+        intervals [59]:
+            xmin = 10.441528
+            xmax = 10.492760
+            text = "ils"
+        intervals [60]:
+            xmin = 10.492760
+            xmax = 10.796948
+            text = "étaient"
+        intervals [61]:
+            xmin = 10.796948
+            xmax = 10.950644
+            text = "trop"
+        intervals [62]:
+            xmin = 10.950644
+            xmax = 11.062713
+            text = "pas"
+        intervals [63]:
+            xmin = 11.062713
+            xmax = 11.104339
+            text = "d'"
+        intervals [64]:
+            xmin = 11.104339
+            xmax = 11.264438
+            text = "accord"
+        intervals [65]:
+            xmin = 11.264438
+            xmax = 11.395720
+            text = "avec"
+        intervals [66]:
+            xmin = 11.395720
+            xmax = 11.520597
+            text = "ce"
+        intervals [67]:
+            xmin = 11.520597
+            xmax = 11.616657
+            text = "qui"
+        intervals [68]:
+            xmin = 11.616657
+            xmax = 11.715918
+            text = "se"
+        intervals [69]:
+            xmin = 11.715918
+            xmax = 12.064934
+            text = "disait"
+        intervals [70]:
+            xmin = 12.064934
+            xmax = 12.196216
+            text = "et"
+        intervals [71]:
+            xmin = 12.196216
+            xmax = 12.212226
+            text = ""
+        intervals [72]:
+            xmin = 12.212226
+            xmax = 12.458779
+            text = "que"
+        intervals [73]:
+            xmin = 12.458779
+            xmax = 12.970000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 12.970000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 4.255623
+            text = ""
+        intervals [2]:
+            xmin = 4.255623
+            xmax = 4.691140
+            text = "GPE"
+        intervals [3]:
+            xmin = 4.691140
+            xmax = 12.970000
+            text = ""

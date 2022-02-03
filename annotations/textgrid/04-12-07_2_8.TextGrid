@@ -1,0 +1,140 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 5.162000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 5.162000
+        intervals: size = 23
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.672802
+            text = ""
+        intervals [2]:
+            xmin = 0.672802
+            xmax = 0.784605
+            text = "ah"
+        intervals [3]:
+            xmin = 0.784605
+            xmax = 1.237859
+            text = "Zola"
+        intervals [4]:
+            xmin = 1.237859
+            xmax = 1.443334
+            text = ""
+        intervals [5]:
+            xmin = 1.443334
+            xmax = 1.543049
+            text = "ah"
+        intervals [6]:
+            xmin = 1.543049
+            xmax = 1.890544
+            text = "Zola"
+        intervals [7]:
+            xmin = 1.890544
+            xmax = 1.960043
+            text = "j'"
+        intervals [8]:
+            xmin = 1.960043
+            xmax = 2.065802
+            text = "ai"
+        intervals [9]:
+            xmin = 2.065802
+            xmax = 2.192713
+            text = "du"
+        intervals [10]:
+            xmin = 2.192713
+            xmax = 2.416318
+            text = "mal"
+        intervals [11]:
+            xmin = 2.416318
+            xmax = 2.914897
+            text = "ah"
+        intervals [12]:
+            xmin = 2.914897
+            xmax = 3.017634
+            text = ""
+        intervals [13]:
+            xmin = 3.017634
+            xmax = 3.419519
+            text = "Zola"
+        intervals [14]:
+            xmin = 3.419519
+            xmax = 3.482975
+            text = "j'"
+        intervals [15]:
+            xmin = 3.482975
+            xmax = 3.570604
+            text = "ai"
+        intervals [16]:
+            xmin = 3.570604
+            xmax = 3.679384
+            text = "du"
+        intervals [17]:
+            xmin = 3.679384
+            xmax = 3.875794
+            text = "mal"
+        intervals [18]:
+            xmin = 3.875794
+            xmax = 3.996662
+            text = "à"
+        intervals [19]:
+            xmin = 3.996662
+            xmax = 4.174942
+            text = "lire"
+        intervals [20]:
+            xmin = 4.174942
+            xmax = 4.238397
+            text = ""
+        intervals [21]:
+            xmin = 4.238397
+            xmax = 4.344156
+            text = "quand"
+        intervals [22]:
+            xmin = 4.344156
+            xmax = 4.549631
+            text = "même"
+        intervals [23]:
+            xmin = 4.549631
+            xmax = 5.162000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 5.162000
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.784605
+            text = ""
+        intervals [2]:
+            xmin = 0.784605
+            xmax = 1.237859
+            text = "PERSON"
+        intervals [3]:
+            xmin = 1.237859
+            xmax = 1.543049
+            text = ""
+        intervals [4]:
+            xmin = 1.543049
+            xmax = 1.890544
+            text = "PERSON"
+        intervals [5]:
+            xmin = 1.890544
+            xmax = 3.017634
+            text = ""
+        intervals [6]:
+            xmin = 3.017634
+            xmax = 3.419519
+            text = "PERSON"
+        intervals [7]:
+            xmin = 3.419519
+            xmax = 5.162000
+            text = ""

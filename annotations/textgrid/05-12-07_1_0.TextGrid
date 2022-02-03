@@ -1,0 +1,160 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 6.054000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 6.054000
+        intervals: size = 28
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.533907
+            text = ""
+        intervals [2]:
+            xmin = 0.533907
+            xmax = 0.611871
+            text = "et"
+        intervals [3]:
+            xmin = 0.611871
+            xmax = 0.668573
+            text = "ils"
+        intervals [4]:
+            xmin = 0.668573
+            xmax = 0.764257
+            text = "ont"
+        intervals [5]:
+            xmin = 0.764257
+            xmax = 0.835134
+            text = "eu"
+        intervals [6]:
+            xmin = 0.835134
+            xmax = 0.930817
+            text = "la"
+        intervals [7]:
+            xmin = 0.930817
+            xmax = 1.069027
+            text = "bonne"
+        intervals [8]:
+            xmin = 1.069027
+            xmax = 1.292289
+            text = "idée"
+        intervals [9]:
+            xmin = 1.292289
+            xmax = 1.377341
+            text = "de"
+        intervals [10]:
+            xmin = 1.377341
+            xmax = 1.444674
+            text = "les"
+        intervals [11]:
+            xmin = 1.444674
+            xmax = 2.011689
+            text = "accueillir"
+        intervals [12]:
+            xmin = 2.011689
+            xmax = 2.153443
+            text = "parce"
+        intervals [13]:
+            xmin = 2.153443
+            xmax = 2.185337
+            text = "qu'"
+        intervals [14]:
+            xmin = 2.185337
+            xmax = 2.252670
+            text = "ils"
+        intervals [15]:
+            xmin = 2.252670
+            xmax = 2.412143
+            text = "ont"
+        intervals [16]:
+            xmin = 2.412143
+            xmax = 2.575160
+            text = "vu"
+        intervals [17]:
+            xmin = 2.575160
+            xmax = 2.787791
+            text = "euh"
+        intervals [18]:
+            xmin = 2.787791
+            xmax = 3.163438
+            text = "trente-cinq"
+        intervals [19]:
+            xmin = 3.163438
+            xmax = 3.489471
+            text = "support"
+        intervals [20]:
+            xmin = 3.489471
+            xmax = 3.695014
+            text = "non"
+        intervals [21]:
+            xmin = 3.695014
+            xmax = 3.861575
+            text = "une"
+        intervals [22]:
+            xmin = 3.861575
+            xmax = 4.205328
+            text = "centaine"
+        intervals [23]:
+            xmin = 4.205328
+            xmax = 4.265573
+            text = "de"
+        intervals [24]:
+            xmin = 4.265573
+            xmax = 4.790062
+            text = "supporters"
+        intervals [25]:
+            xmin = 4.790062
+            xmax = 4.892833
+            text = "euh"
+        intervals [26]:
+            xmin = 4.892833
+            xmax = 5.335813
+            text = "Polonais"
+        intervals [27]:
+            xmin = 5.335813
+            xmax = 5.520093
+            text = "euh"
+        intervals [28]:
+            xmin = 5.520093
+            xmax = 6.054000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 6.054000
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.787791
+            text = ""
+        intervals [2]:
+            xmin = 2.787791
+            xmax = 3.163438
+            text = "NUMBER"
+        intervals [3]:
+            xmin = 3.163438
+            xmax = 3.861575
+            text = ""
+        intervals [4]:
+            xmin = 3.861575
+            xmax = 4.205328
+            text = "NUMBER"
+        intervals [5]:
+            xmin = 4.205328
+            xmax = 4.892833
+            text = ""
+        intervals [6]:
+            xmin = 4.892833
+            xmax = 5.335813
+            text = "NORP"
+        intervals [7]:
+            xmin = 5.335813
+            xmax = 6.054000
+            text = ""

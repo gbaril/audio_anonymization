@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 3.507000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 3.507000
+        intervals: size = 15
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.830722
+            text = ""
+        intervals [2]:
+            xmin = 0.830722
+            xmax = 0.916943
+            text = "donc"
+        intervals [3]:
+            xmin = 0.916943
+            xmax = 1.477385
+            text = "forcément"
+        intervals [4]:
+            xmin = 1.477385
+            xmax = 1.528707
+            text = "il"
+        intervals [5]:
+            xmin = 1.528707
+            xmax = 1.565660
+            text = "y"
+        intervals [6]:
+            xmin = 1.565660
+            xmax = 1.694992
+            text = "a"
+        intervals [7]:
+            xmin = 1.694992
+            xmax = 1.727839
+            text = ""
+        intervals [8]:
+            xmin = 1.727839
+            xmax = 1.887965
+            text = "plus"
+        intervals [9]:
+            xmin = 1.887965
+            xmax = 2.037827
+            text = "grand"
+        intervals [10]:
+            xmin = 2.037827
+            xmax = 2.288280
+            text = "monde"
+        intervals [11]:
+            xmin = 2.288280
+            xmax = 2.378608
+            text = "de"
+        intervals [12]:
+            xmin = 2.378608
+            xmax = 2.436089
+            text = "la"
+        intervals [13]:
+            xmin = 2.436089
+            xmax = 2.709125
+            text = "PSEUL"
+        intervals [14]:
+            xmin = 2.709125
+            xmax = 2.912362
+            text = "quoi"
+        intervals [15]:
+            xmin = 2.912362
+            xmax = 3.507000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 3.507000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.436089
+            text = ""
+        intervals [2]:
+            xmin = 2.436089
+            xmax = 2.709125
+            text = "ORG"
+        intervals [3]:
+            xmin = 2.709125
+            xmax = 3.507000
+            text = ""

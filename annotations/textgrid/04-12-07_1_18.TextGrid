@@ -1,0 +1,72 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.546000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 2.546000
+        intervals: size = 10
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.546451
+            text = ""
+        intervals [2]:
+            xmin = 0.546451
+            xmax = 0.661208
+            text = "ça"
+        intervals [3]:
+            xmin = 0.661208
+            xmax = 0.826638
+            text = "serait"
+        intervals [4]:
+            xmin = 0.826638
+            xmax = 0.966732
+            text = "bien"
+        intervals [5]:
+            xmin = 0.966732
+            xmax = 1.144084
+            text = "Paris"
+        intervals [6]:
+            xmin = 1.144084
+            xmax = 1.434704
+            text = "plage"
+        intervals [7]:
+            xmin = 1.434704
+            xmax = 1.564365
+            text = "comme"
+        intervals [8]:
+            xmin = 1.564365
+            xmax = 1.659748
+            text = "ça"
+        intervals [9]:
+            xmin = 1.659748
+            xmax = 1.913108
+            text = "ils"
+        intervals [10]:
+            xmin = 1.913108
+            xmax = 2.546000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 2.546000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.966732
+            text = ""
+        intervals [2]:
+            xmin = 0.966732
+            xmax = 1.144084
+            text = "GPE"
+        intervals [3]:
+            xmin = 1.144084
+            xmax = 2.546000
+            text = ""

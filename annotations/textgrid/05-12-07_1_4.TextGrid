@@ -1,0 +1,152 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 7.072000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 7.072000
+        intervals: size = 28
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.500000
+            text = ""
+        intervals [2]:
+            xmin = 0.500000
+            xmax = 0.579919
+            text = "et"
+        intervals [3]:
+            xmin = 0.579919
+            xmax = 0.643536
+            text = "le"
+        intervals [4]:
+            xmin = 0.643536
+            xmax = 0.886257
+            text = "match"
+        intervals [5]:
+            xmin = 0.886257
+            xmax = 1.033064
+            text = "se"
+        intervals [6]:
+            xmin = 1.033064
+            xmax = 1.331572
+            text = "déroulait"
+        intervals [7]:
+            xmin = 1.331572
+            xmax = 1.606590
+            text = "à"
+        intervals [8]:
+            xmin = 1.606590
+            xmax = 1.993236
+            text = "Sochaux"
+        intervals [9]:
+            xmin = 1.993236
+            xmax = 2.234080
+            text = "donc"
+        intervals [10]:
+            xmin = 2.234080
+            xmax = 2.361935
+            text = "euh"
+        intervals [11]:
+            xmin = 2.361935
+            xmax = 2.501684
+            text = "ils"
+        intervals [12]:
+            xmin = 2.501684
+            xmax = 3.175651
+            text = "suivaient"
+        intervals [13]:
+            xmin = 3.175651
+            xmax = 3.319060
+            text = "un"
+        intervals [14]:
+            xmin = 3.319060
+            xmax = 3.500163
+            text = "groupe"
+        intervals [15]:
+            xmin = 3.500163
+            xmax = 3.691581
+            text = "de"
+        intervals [16]:
+            xmin = 3.691581
+            xmax = 4.088173
+            text = "supporters"
+        intervals [17]:
+            xmin = 4.088173
+            xmax = 4.458401
+            text = "Lyonnais"
+        intervals [18]:
+            xmin = 4.458401
+            xmax = 4.540929
+            text = "qui"
+        intervals [19]:
+            xmin = 4.540929
+            xmax = 4.725470
+            text = "voulaient"
+        intervals [20]:
+            xmin = 4.725470
+            xmax = 4.810290
+            text = "se"
+        intervals [21]:
+            xmin = 4.810290
+            xmax = 5.019638
+            text = "battre"
+        intervals [22]:
+            xmin = 5.019638
+            xmax = 5.531263
+            text = ""
+        intervals [23]:
+            xmin = 5.531263
+            xmax = 5.640096
+            text = "et"
+        intervals [24]:
+            xmin = 5.640096
+            xmax = 5.711903
+            text = "ils"
+        intervals [25]:
+            xmin = 5.711903
+            xmax = 5.768002
+            text = "se"
+        intervals [26]:
+            xmin = 5.768002
+            xmax = 6.003619
+            text = "donnaient"
+        intervals [27]:
+            xmin = 6.003619
+            xmax = 6.459145
+            text = "rendez-vous"
+        intervals [28]:
+            xmin = 6.459145
+            xmax = 7.072000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 7.072000
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.606590
+            text = ""
+        intervals [2]:
+            xmin = 1.606590
+            xmax = 1.993236
+            text = "GPE"
+        intervals [3]:
+            xmin = 1.993236
+            xmax = 4.088173
+            text = ""
+        intervals [4]:
+            xmin = 4.088173
+            xmax = 4.458401
+            text = "NORP"
+        intervals [5]:
+            xmin = 4.458401
+            xmax = 7.072000
+            text = ""

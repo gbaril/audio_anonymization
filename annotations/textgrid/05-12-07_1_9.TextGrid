@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.138000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.138000
+        intervals: size = 12
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.607160
+            text = ""
+        intervals [2]:
+            xmin = 0.607160
+            xmax = 0.670139
+            text = "qui"
+        intervals [3]:
+            xmin = 0.670139
+            xmax = 1.057702
+            text = "expliquait"
+        intervals [4]:
+            xmin = 1.057702
+            xmax = 1.573646
+            text = "justement"
+        intervals [5]:
+            xmin = 1.573646
+            xmax = 2.053255
+            text = "euh"
+        intervals [6]:
+            xmin = 2.053255
+            xmax = 2.220392
+            text = "les"
+        intervals [7]:
+            xmin = 2.220392
+            xmax = 2.685468
+            text = "avantages"
+        intervals [8]:
+            xmin = 2.685468
+            xmax = 2.801737
+            text = "de"
+        intervals [9]:
+            xmin = 2.801737
+            xmax = 2.944650
+            text = "la"
+        intervals [10]:
+            xmin = 2.944650
+            xmax = 3.424260
+            text = "LRU"
+        intervals [11]:
+            xmin = 3.424260
+            xmax = 3.586552
+            text = "quoi"
+        intervals [12]:
+            xmin = 3.586552
+            xmax = 4.138000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.138000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.944650
+            text = ""
+        intervals [2]:
+            xmin = 2.944650
+            xmax = 3.424260
+            text = "LAW"
+        intervals [3]:
+            xmin = 3.424260
+            xmax = 4.138000
+            text = ""

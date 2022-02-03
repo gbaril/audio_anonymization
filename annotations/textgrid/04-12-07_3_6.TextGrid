@@ -1,0 +1,140 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.839000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.839000
+        intervals: size = 22
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.531562
+            text = ""
+        intervals [2]:
+            xmin = 0.531562
+            xmax = 0.653364
+            text = "puis"
+        intervals [3]:
+            xmin = 0.653364
+            xmax = 0.690188
+            text = ""
+        intervals [4]:
+            xmin = 0.690188
+            xmax = 0.746841
+            text = "tu"
+        intervals [5]:
+            xmin = 0.746841
+            xmax = 0.879974
+            text = "as"
+        intervals [6]:
+            xmin = 0.879974
+            xmax = 1.015939
+            text = "deux"
+        intervals [7]:
+            xmin = 1.015939
+            xmax = 1.568299
+            text = "trois"
+        intervals [8]:
+            xmin = 1.568299
+            xmax = 1.641947
+            text = "ce"
+        intervals [9]:
+            xmin = 1.641947
+            xmax = 1.712762
+            text = "qui"
+        intervals [10]:
+            xmin = 1.712762
+            xmax = 1.763750
+            text = "s'"
+        intervals [11]:
+            xmin = 1.763750
+            xmax = 2.047011
+            text = "appelle"
+        intervals [12]:
+            xmin = 2.047011
+            xmax = 2.548384
+            text = "des"
+        intervals [13]:
+            xmin = 2.548384
+            xmax = 2.675852
+            text = "des"
+        intervals [14]:
+            xmin = 2.675852
+            xmax = 2.995937
+            text = "DRAC"
+        intervals [15]:
+            xmin = 2.995937
+            xmax = 3.109242
+            text = "ou"
+        intervals [16]:
+            xmin = 3.109242
+            xmax = 3.239542
+            text = "des"
+        intervals [17]:
+            xmin = 3.239542
+            xmax = 3.273534
+            text = ""
+        intervals [18]:
+            xmin = 3.273534
+            xmax = 3.542632
+            text = "non"
+        intervals [19]:
+            xmin = 3.542632
+            xmax = 3.647439
+            text = "des"
+        intervals [20]:
+            xmin = 3.647439
+            xmax = 3.670100
+            text = ""
+        intervals [21]:
+            xmin = 3.670100
+            xmax = 4.253618
+            text = "CRAC"
+        intervals [22]:
+            xmin = 4.253618
+            xmax = 4.839000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.839000
+        intervals: size = 8
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.879974
+            text = ""
+        intervals [2]:
+            xmin = 0.879974
+            xmax = 1.015939
+            text = "NUMBER"
+        intervals [3]:
+            xmin = 1.015939
+            xmax = 1.568299
+            text = "NUMBER"
+        intervals [4]:
+            xmin = 1.568299
+            xmax = 2.675852
+            text = ""
+        intervals [5]:
+            xmin = 2.675852
+            xmax = 2.995937
+            text = "ORG"
+        intervals [6]:
+            xmin = 2.995937
+            xmax = 3.670100
+            text = ""
+        intervals [7]:
+            xmin = 3.670100
+            xmax = 4.253618
+            text = "ORG"
+        intervals [8]:
+            xmin = 4.253618
+            xmax = 4.839000
+            text = ""

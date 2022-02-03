@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 4.499000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 4.499000
+        intervals: size = 23
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.528450
+            text = ""
+        intervals [2]:
+            xmin = 0.528450
+            xmax = 0.736503
+            text = "hum"
+        intervals [3]:
+            xmin = 0.736503
+            xmax = 0.865549
+            text = ""
+        intervals [4]:
+            xmin = 0.865549
+            xmax = 0.997229
+            text = "le"
+        intervals [5]:
+            xmin = 0.997229
+            xmax = 1.036732
+            text = ""
+        intervals [6]:
+            xmin = 1.036732
+            xmax = 1.221084
+            text = "club"
+        intervals [7]:
+            xmin = 1.221084
+            xmax = 1.284290
+            text = "le"
+        intervals [8]:
+            xmin = 1.284290
+            xmax = 1.437038
+            text = "plus"
+        intervals [9]:
+            xmin = 1.437038
+            xmax = 1.803107
+            text = "raciste"
+        intervals [10]:
+            xmin = 1.803107
+            xmax = 1.824175
+            text = ""
+        intervals [11]:
+            xmin = 1.824175
+            xmax = 1.961122
+            text = "quoi"
+        intervals [12]:
+            xmin = 1.961122
+            xmax = 2.137572
+            text = "de"
+        intervals [13]:
+            xmin = 2.137572
+            xmax = 2.192878
+            text = "l'"
+        intervals [14]:
+            xmin = 2.192878
+            xmax = 2.514176
+            text = "Italie"
+        intervals [15]:
+            xmin = 2.514176
+            xmax = 2.756466
+            text = ""
+        intervals [16]:
+            xmin = 2.756466
+            xmax = 2.927649
+            text = "un"
+        intervals [17]:
+            xmin = 2.927649
+            xmax = 3.046161
+            text = "des"
+        intervals [18]:
+            xmin = 3.046161
+            xmax = 3.164672
+            text = "plus"
+        intervals [19]:
+            xmin = 3.164672
+            xmax = 3.533375
+            text = "racistes"
+        intervals [20]:
+            xmin = 3.533375
+            xmax = 3.654520
+            text = "en"
+        intervals [21]:
+            xmin = 3.654520
+            xmax = 3.757230
+            text = "tous"
+        intervals [22]:
+            xmin = 3.757230
+            xmax = 3.902077
+            text = "cas"
+        intervals [23]:
+            xmin = 3.902077
+            xmax = 4.499000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 4.499000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 2.192878
+            text = ""
+        intervals [2]:
+            xmin = 2.192878
+            xmax = 2.514176
+            text = "GPE"
+        intervals [3]:
+            xmin = 2.514176
+            xmax = 4.499000
+            text = ""

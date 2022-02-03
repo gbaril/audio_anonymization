@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.838000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 2.838000
+        intervals: size = 12
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.717107
+            text = ""
+        intervals [2]:
+            xmin = 0.717107
+            xmax = 0.873268
+            text = "moi"
+        intervals [3]:
+            xmin = 0.873268
+            xmax = 1.031090
+            text = "plus"
+        intervals [4]:
+            xmin = 1.031090
+            xmax = 1.034412
+            text = ""
+        intervals [5]:
+            xmin = 1.034412
+            xmax = 1.187251
+            text = "tard"
+        intervals [6]:
+            xmin = 1.187251
+            xmax = 1.227121
+            text = "je"
+        intervals [7]:
+            xmin = 1.227121
+            xmax = 1.404879
+            text = "voudrais"
+        intervals [8]:
+            xmin = 1.404879
+            xmax = 1.466347
+            text = "être"
+        intervals [9]:
+            xmin = 1.466347
+            xmax = 1.511201
+            text = ""
+        intervals [10]:
+            xmin = 1.511201
+            xmax = 1.883329
+            text = "Maximo"
+        intervals [11]:
+            xmin = 1.883329
+            xmax = 2.255457
+            text = "Gargia"
+        intervals [12]:
+            xmin = 2.255457
+            xmax = 2.838000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 2.838000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.511201
+            text = ""
+        intervals [2]:
+            xmin = 1.511201
+            xmax = 2.255457
+            text = "PERSON"
+        intervals [3]:
+            xmin = 2.255457
+            xmax = 2.838000
+            text = ""

@@ -1,0 +1,208 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 8.427000
+tiers? <exists>
+size = 2
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "spkr_1_1-words"
+        xmin = 0.000000
+        xmax = 8.427000
+        intervals: size = 35
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.500000
+            text = ""
+        intervals [2]:
+            xmin = 0.500000
+            xmax = 0.629726
+            text = "la"
+        intervals [3]:
+            xmin = 0.629726
+            xmax = 0.910903
+            text = "période"
+        intervals [4]:
+            xmin = 0.910903
+            xmax = 1.019428
+            text = "où"
+        intervals [5]:
+            xmin = 1.019428
+            xmax = 1.093422
+            text = "tu"
+        intervals [6]:
+            xmin = 1.093422
+            xmax = 1.290739
+            text = "avais"
+        intervals [7]:
+            xmin = 1.290739
+            xmax = 1.828428
+            text = "Leguenn"
+        intervals [8]:
+            xmin = 1.828428
+            xmax = 1.912288
+            text = "tu"
+        intervals [9]:
+            xmin = 1.912288
+            xmax = 2.080008
+            text = "avais"
+        intervals [10]:
+            xmin = 2.080008
+            xmax = 2.652228
+            text = "Fournier"
+        intervals [11]:
+            xmin = 2.652228
+            xmax = 2.780484
+            text = "tu"
+        intervals [12]:
+            xmin = 2.780484
+            xmax = 2.963002
+            text = "avais"
+        intervals [13]:
+            xmin = 2.963002
+            xmax = 3.402033
+            text = "Roche"
+        intervals [14]:
+            xmin = 3.402033
+            xmax = 3.707875
+            text = ""
+        intervals [15]:
+            xmin = 3.707875
+            xmax = 3.821332
+            text = "les"
+        intervals [16]:
+            xmin = 3.821332
+            xmax = 3.984119
+            text = "gens"
+        intervals [17]:
+            xmin = 3.984119
+            xmax = 4.097576
+            text = "ils"
+        intervals [18]:
+            xmin = 4.097576
+            xmax = 4.428082
+            text = "restaient"
+        intervals [19]:
+            xmin = 4.428082
+            xmax = 4.551406
+            text = "euh"
+        intervals [20]:
+            xmin = 4.551406
+            xmax = 4.931241
+            text = "cinq"
+        intervals [21]:
+            xmin = 4.931241
+            xmax = 4.980571
+            text = ""
+        intervals [22]:
+            xmin = 4.980571
+            xmax = 5.434400
+            text = "sept"
+        intervals [23]:
+            xmin = 5.434400
+            xmax = 5.735309
+            text = "huit"
+        intervals [24]:
+            xmin = 5.735309
+            xmax = 5.893163
+            text = "ans"
+        intervals [25]:
+            xmin = 5.893163
+            xmax = 6.134876
+            text = "selon"
+        intervals [26]:
+            xmin = 6.134876
+            xmax = 6.258200
+            text = "le"
+        intervals [27]:
+            xmin = 6.258200
+            xmax = 6.603505
+            text = "club"
+        intervals [28]:
+            xmin = 6.603505
+            xmax = 6.677499
+            text = ""
+        intervals [29]:
+            xmin = 6.677499
+            xmax = 6.835352
+            text = "voire"
+        intervals [30]:
+            xmin = 6.835352
+            xmax = 7.022804
+            text = "même"
+        intervals [31]:
+            xmin = 7.022804
+            xmax = 7.175725
+            text = "dix"
+        intervals [32]:
+            xmin = 7.175725
+            xmax = 7.328645
+            text = "ans"
+        intervals [33]:
+            xmin = 7.328645
+            xmax = 7.476633
+            text = "pour"
+        intervals [34]:
+            xmin = 7.476633
+            xmax = 7.861402
+            text = "certains"
+        intervals [35]:
+            xmin = 7.861402
+            xmax = 8.427000
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "spkr_1_1-entities"
+        xmin = 0.000000
+        xmax = 8.427000
+        intervals: size = 12
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 1.290739
+            text = ""
+        intervals [2]:
+            xmin = 1.290739
+            xmax = 1.828428
+            text = "PERSON"
+        intervals [3]:
+            xmin = 1.828428
+            xmax = 2.080008
+            text = ""
+        intervals [4]:
+            xmin = 2.080008
+            xmax = 2.652228
+            text = "PERSON"
+        intervals [5]:
+            xmin = 2.652228
+            xmax = 2.963002
+            text = ""
+        intervals [6]:
+            xmin = 2.963002
+            xmax = 3.402033
+            text = "PERSON"
+        intervals [7]:
+            xmin = 3.402033
+            xmax = 4.551406
+            text = ""
+        intervals [8]:
+            xmin = 4.551406
+            xmax = 4.931241
+            text = "NUMBER"
+        intervals [9]:
+            xmin = 4.931241
+            xmax = 4.980571
+            text = ""
+        intervals [10]:
+            xmin = 4.980571
+            xmax = 5.434400
+            text = "NUMBER"
+        intervals [11]:
+            xmin = 5.434400
+            xmax = 5.735309
+            text = "NUMBER"
+        intervals [12]:
+            xmin = 5.735309
+            xmax = 8.427000
+            text = ""
